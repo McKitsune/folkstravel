@@ -58,6 +58,9 @@ app.post('/api/enviarCorreo', (req, res) => {
 
 // Puerto desde Render o por defecto
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
+
+console.log('PORT desde Render:', process.env.PORT);
+
+app.listen(PORT, '0.0.0.0', () => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
