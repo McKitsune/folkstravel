@@ -31,13 +31,11 @@ function Section4() {
         setStatus(null);
 
         try {
-            const res = await fetch(
-                'https://folkstravels.com/backend/api/enviarCorreo',
-                {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(formData),
-                }
+            const res = await fetch('https://folkstravel.onrender.com/api/enviarCorreo', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(formData),
+            }
             );
 
             const data = await res.json();
