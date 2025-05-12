@@ -1,0 +1,250 @@
+/* Estilos generales */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 95%;
+    padding: 0.2rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 999;
+}
+
+.logo img {
+    height: 48px;
+    object-fit: contain;
+}
+
+/* Fondo independiente para menú */
+.nav-glass {
+    background: rgba(51, 51, 51, 0.309);
+    backdrop-filter: blur(10px);
+    border-radius: 2rem;
+    padding: 0.3rem 0.3rem;
+}
+
+.nav-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-links button {
+    background: transparent;
+    border: none;
+    color: white;
+    font-weight: 500;
+    font-size: 0.95rem;
+    cursor: pointer;
+    padding: 0.4rem 1.2rem;
+    border-radius: 2rem;
+    transition: background 0.3s;
+}
+
+.nav-links .active {
+    background: white;
+    color: rgb(11, 128, 3);
+}
+
+/* Fondo independiente para búsqueda */
+.search-glass {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    background: rgba(51, 51, 51, 0.309);
+    backdrop-filter: blur(10px);
+    padding: 0.3rem 0.3rem;
+    border-radius: 2rem;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+}
+
+.search-box input {
+    width: 100px;
+    height: 10px;
+    background: #0b0b0b4c;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 0.9rem;
+}
+
+.icon-search {
+    color: white;
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+}
+
+.social-icons {
+    margin: 0;
+    gap: 20px;
+}
+
+.social-icons a {
+    color: white;
+    margin-left: 0.2rem;
+    font-size: 1rem;
+    transition: transform 0.2s;
+}
+
+.social-icons a:hover {
+    transform: scale(1.2);
+}
+
+/* Estilos del botón de idioma */
+.language-btn {
+    background: rgba(51, 51, 51, 0.309);
+    backdrop-filter: blur(10px);
+    border: none;
+    padding: 6px 15px;
+    font-size: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    transition: background-color 0.3s ease;
+}
+
+.language-btn:hover {
+    background-color: #ccc;
+}
+
+/* Estilos del menú desplegable */
+.language-dropdown {
+    position: absolute;
+    top: 70px;
+    /* Ajustar la distancia del botón */
+    right: 39px;
+    background: rgba(51, 51, 51, 0.309);
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    z-index: 100;
+    align-items: center;
+}
+
+.language-dropdown button {
+    background-color: transparent;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+.language-dropdown button:hover {
+    background-color: #f0f0f0;
+}
+
+/*ocultar menu */
+.menu-toggle {
+    display: none;
+}
+
+/* Ocultar el botón de hamburguesa en pantallas grandes */
+@media (min-width: 769px) {
+    .menu-toggle1 {
+        display: none;
+    }
+}
+
+/* Media query para pantallas móviles (hasta 768px) */
+@media (max-width: 768px) {
+    .menu-toggle1 {
+        display: block;
+        font-size: 2rem;
+        background: #e96d0000;
+        border: none;
+        color: white;
+        cursor: pointer;
+        position: fixed;
+        top: 0.2rem;
+        right: 1rem;
+        padding: 0.4rem 0.8rem;
+        border-radius: 8px;
+        z-index: 1001;
+    }
+
+    .header {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 1rem;
+    }
+    
+    /* Estilos del menú desplegable */
+.language-dropdown {
+    position: absolute;
+    top: 380px;
+    /* Ajustar la distancia del botón */
+    right: 50%;
+    background: rgba(51, 51, 51, 0.309);
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    z-index: 100;
+    align-items: center;
+}
+
+    .language-btn {
+    background: rgba(51, 51, 51, 0.309);
+    backdrop-filter: blur(10px);
+    border: none;
+    padding: 6px 15px;
+    font-size: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    transition: background-color 0.3s ease;
+}
+
+    .logo img {
+        height: 30px;
+        object-fit: contain;
+    }
+
+    .nav-glass,
+    .search-glass,
+    .language-btn {
+        display: none;
+        flex-direction: column;
+        width: 86%;
+        margin-top: 1rem;
+        border-radius: 20px;
+        text-align: center;
+    }
+
+    body.menu-open .nav-glass,
+    body.menu-open .search-glass,
+    body.menu-open .language-btn {
+        display: flex;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .search-box input {
+        width: 100%;
+    }
+}

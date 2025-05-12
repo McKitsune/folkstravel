@@ -1,0 +1,228 @@
+:root {
+    --card-bg-color: #2e2e2e;
+    --text-color: #ffffff;
+    --overlay-bg: rgba(0, 0, 0, 0.5);
+    --icon-color: #ffffff;
+    --label-font-size: 1rem;
+}
+
+html,
+body,
+#root {
+    height: auto;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    overflow-y: scroll;
+}
+
+body {
+    margin: 0;
+    color: var(--text-color);
+}
+
+.lottie-bg-container {
+    position: absolute;
+    top: -52%;
+    left: 0;
+    width: 100%;
+    height: 180%;
+    z-index: -2;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.overlay-dark-xp {
+    height: 100%;
+    position: fixed;
+    inset: 0;
+    background-color: rgba(4, 80, 0, 0.194);
+    z-index: -1;
+}
+
+.titulo {
+    position: relative;
+    z-index: 20;
+    color: var(--text-color);
+    text-align: center;
+    padding: 50px;
+    text-shadow: 2px 2px 15px #000000a6;
+}
+
+.titulo h1 {
+    color: #ffffff;
+    font-size: 60px;
+}
+
+.titulo p {
+    font-size: 25px;
+    padding-bottom: 50px;
+}
+
+.experiencias-section {
+    position: relative;
+    padding: 3rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    z-index: 3;
+}
+
+.experiencias-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    color: var(--text-color);
+    text-align: left;
+}
+
+.experiencias-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+    justify-items: center;
+    padding-bottom: 40px;
+}
+
+.experience-card {
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: var(--card-bg-color);
+    width: 70%;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    will-change: transform;
+    text-decoration: none;
+}
+
+.experience-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.overlay-icon {
+    position: absolute;
+    inset: 0;
+    background-color: #48484835;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconxp {
+    width: 90px;
+    height: 90px;
+    fill: var(--icon-color);
+    z-index: 3;
+}
+
+.label {
+    z-index: 3;
+    text-align: center;
+    padding: 0.75rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: transparent;
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@media (max-width: 1366px) {
+
+    .lottie-bg-container {
+        position: fixed;
+        top: -50%;
+        left: 0;
+        width: 100%;
+        height: 200%;
+        z-index: -2;
+        overflow: hidden;
+        pointer-events: none;
+    }
+
+    .titulo {
+        position: relative;
+        z-index: 20;
+        color: var(--text-color);
+        text-align: center;
+        padding: 10px;
+        text-shadow: 2px 2px 15px #000000a6;
+    }
+
+    .titulo h1 {
+        font-size: 48px;
+    }
+
+    .titulo p {
+        font-size: 20px;
+    }
+
+    .experience-card {
+        width: 85%;
+    }
+
+    .iconxp {
+        width: 80px;
+        height: 80px;
+    }
+
+    .label {
+        font-size: 1.35rem;
+    }
+}    
+
+@media (max-width: 768px) {
+    .lottie-bg-container {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 235vw;
+        height: 100dvh;
+        z-index: 0;
+        overflow: hidden;
+        pointer-events: none;
+    }
+
+    .experiencias-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .experience-card {
+        width: 80%;
+        height: 250px;
+        aspect-ratio: unset;
+    }
+
+    .iconxp {
+        width: 74px;
+        height: 84px;
+    }
+
+    .label {
+        font-size: 1.25rem;
+        padding: 0.5rem;
+    }
+
+    .titulo {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .experiencias-section {
+        padding: 1.5rem 1rem;
+    }
+}

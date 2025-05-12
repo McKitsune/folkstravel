@@ -1,0 +1,354 @@
+{
+    "__Header": "Header",
+    "logoAlt": "Logo Folks Travel",
+    "home": "Inicio",
+    "experiences": "Experiencias",
+    "aboutUs": "Nosotros",
+    "contact": "Contacto",
+    "spanish": "Es",
+    "english": "En",
+    "__section1": "section1",
+    "coffeeXP": "CAFÉ XP +",
+    "coffeeXPDesc": "Explora la cultura cafetera y sus tradiciones",
+    "adventureXP": "AVENTURA XP +",
+    "adventureXPDesc": "Vive experiencias llenas de aventuras únicas",
+    "bikeXP": "BICICLETA XP +",
+    "bikeXPDesc": "Recorre los cafetales en bicicleta",
+    "natureXP": "NATURALEZA XP +",
+    "natureXPDesc": "Sumérgete en las mágicas reservas naturales",
+    "discoveringXP": "DESCUBRIENDO XP +",
+    "discoveringXPDesc": "Conoce la historia y arquitectura del eje cafetero",
+    "otherXP": "OTRAS XP +",
+    "otherXPDesc": "Explora una variedad de nuevas experiencias",
+    "__section2": "section2",
+    "mensaje": " Viajar no es solo cambiar de lugar, sino vivir nuevas historias. Cada destino está pensado para que explores, descubras y crees recuerdos inolvidables. ",
+    "__section3": "section3",
+    "risaralda": {
+        "descripcion": "En Risaralda, siente la energía vibrante de Pereira, la ciudad sin puertas, y adéntrate en los ecosistemas del Santuario de Fauna y Flora Otún Quimbaya. Experimenta caminatas en bosques nublados, avistamiento de aves endémicas y turismo rural en comunidades que combinan tradición y sostenibilidad."
+    },
+    "caldas": {
+        "descripcion": "En Caldas, vive el legado de Manizales con sus emblemáticos termales, paisajes volcánicos y arquitectura de montaña. Explora rutas cafeteras auténticas, vive la cultura arriera en fincas tradicionales y déjate maravillar por la majestuosidad del Parque Nacional Natural Los Nevados."
+    },
+    "quindio": {
+        "descripcion": "El Quindío, con su capital Armenia y pueblos mágicos como Salento y Filandia, es la postal viva del café. Aquí, el aroma del grano recién tostado acompaña cada paso entre palmas de cera, balcones coloridos, arquitectura colonial y experiencias que van desde recorridos sensoriales en fincas cafeteras hasta aventuras en el Valle de Cocora."
+    },
+    "texto1": "Cada lugar tiene su propia magia que cuenta historias únicas, haciendo inolvidable cada recorrido.",
+    "texto2": "Recorremos los caminos de un verdadero tesoro natural, con una variedad asombrosa de ecosistemas, una rica flora y fauna.",
+    "__section4": "section4",
+    "section4": {
+        "titulo": "Prepárate para tu próxima experiencia",
+        "subtitulo": "Escríbenos y hagamos juntos que la magia suceda, explorando lugares con historias increíbles.",
+        "contactanos": "Contáctanos",
+        "nombre": "Nombre",
+        "correo": "Correo electrónico",
+        "mensaje": "Mensaje",
+        "enviar": "Enviar",
+        "enviando": "Enviando...",
+        "exito": "¡Mensaje enviado!",
+        "error": "Error al enviar el mensaje."
+    },
+    "__contacto": "contacto",
+    "contacto": {
+        "contactanos": "Contáctanos",
+        "experiencia": "Estamos listos para planear tu próxima experiencia inolvidable.",
+        "email": "Email",
+        "telefono": "Teléfono",
+        "direccion": "Dirección",
+        "nombre": "Nombre",
+        "correo": "Correo electrónico",
+        "mensaje": "Mensaje",
+        "enviar": "Enviar",
+        "exito": "✔ ¡Mensaje enviado!",
+        "error": "✖ Error al enviar."
+    },
+    "__experiencias": "experiencias",
+    "section2": {
+        "titulo": "Cada viaje deja una huella",
+        "mensaje": "Hay momentos que transforman. No solo visitamos lugares: nos conectamos con la esencia de cada destino, con su gente, sus historias y su magia. Estás a punto de vivir recuerdos que se quedarán contigo para siempre. Porque aquí, cada experiencia tiene alma."
+    },
+    "experiencias1": {
+        "coffeeXP": {
+            "title": "Café XP"
+        },
+        "adventureXP": {
+            "title": "Aventuras XP"
+        },
+        "natureXP": {
+            "title": "Naturaleza XP"
+        },
+        "discoveringXP": {
+            "title": "Descubriendo XP"
+        },
+        "bikeXP": {
+            "title": "Bicicleta XP"
+        },
+        "otherXP": {
+            "title": "Otras XP"
+        }
+    },
+    "__adventuresXP": "adventuresXP",
+    "adventures": {
+        "adventuresXP": {
+            "titulo": "Experiencias De Aventuras",
+            "descripcion": "Adéntrate en un escenario de nieves perpetuas, páramos, bosques alto-andinos, valles, planicies y ríos caudalosos que revelan la riqueza natural del paisaje cultural cafetero. Ofrecemos experiencias de aventura que conectan a los turistas con la naturaleza y las comunidades locales, promoviendo un turismo responsable y sostenible que deja una huella imborrable en el corazón y el espíritu.."
+        },
+        "cabalgatareservalamaria": {
+            "titulo": "CABALGATA RESERVA NATURAL LA MARIA",
+            "descripcion": "Los pintorescos valles esculpidos por el río Quindío proporcionan el escenario perfecto para explorar a caballo. Cruzaremos ríos, ascenderemos por las colinas andinas y contemplaremos la majestuosidad de la Cordillera Central. Atravesaremos diversos cultivos agrícolas antes de culminar nuestra experiencia en un encantador mirador, donde disfrutaremos de tradicionales snacks de la región. Únete a nosotros para descubrir la belleza natural de la región a lomos de un caballo en un recorrido que combina la aventura ecuestre con la serenidad del entorno."
+        },
+        "cabalgatalamaria&fincalamorelia": {
+            "titulo": "CABALGATA LA MARIA & FINCA LA MORELIA",
+            "descripcion": "Embárcate en una jornada completa de descubrimiento, durante cinco horas (incluyendo traslados), explorarás los pintorescos valles formados por el río Quindío a caballo durante dos horas. La experiencia culminará en un hermoso mirador con tradicionales snacks regionales. Posteriormente, en la Finca La Morelia, seremos recibidos con una exquisita taza de café, exploraremos las plantaciones, el beneficiadero, la zona de secado y el área de tostión. La experiencia finaliza con una actividad lúdica de catación de café y una demostración de barismo."
+        },
+        "balsajeriolavieja": {
+            "titulo": "BALSAJE RIO LA VIEJA",
+            "descripcion": "Embárcate en una experiencia inolvidable con nuestro Tour de Balsaje por el Río La Vieja, una actividad de entre 4 y 5 horas que te conecta con la naturaleza, la cultura local y la historia de la región cafetera. Navegar por sus aguas es revivir un legado de la colonización antioqueña. La travesía se realiza en balsas artesanales de guadua, guiadas por dos bogas locales expertos, quienes te llevarán a disfrutar cada instante de este recorrido auténtico. Vive la magia del Río La Vieja y lleva contigo recuerdos imborrables de esta joya natural y cultural de Colombia."
+        },
+        "fincaeldiamante&canopybosquesdelsaman": {
+            "titulo": "FINCA EL DIAMANTE & CANOPY BOSQUE DEL SAMAN",
+            "descripcion": "La experiencia inicia en la Finca El Diamante, cerca de Quimbaya, donde los nietos del propietario nos transmitirán la pasión agrícola heredada. Caminaremos por cultivos de cacao conociendo el proceso del chocolate colombiano y la sostenibilidad de la finca con cacao, café y plátano. Al final, aprenderemos a hacer chocolate y compartiremos un almuerzo típico en una fonda caminera. Luego, en el Bosque del Samán, viviremos la experiencia de canopy con siete vuelos y puentes tibetanos, disfrutando de paisajes y cultivos que conforman el paisaje cultural cafetero."
+        },
+        "globoaerostatico": {
+            "titulo": "GLOBO AEROSTÁTICO",
+            "descripcion": "Embárcate en una experiencia única: un vuelo en globo aerostático que revela la excepcional topografía del paisaje cultural cafetero. Durante 3 horas, incluidos traslados, nuestros viajeros participarán en el inflado del globo, compartiendo momentos con la tripulación y degustando café local. Al elevarse, disfrutarán de la magnífica belleza de ríos, montañas y valles en un recorrido de 30 a 60 minutos. Aunque el aterrizaje es incierto, nuestro equipo garantiza la asistencia de transporte con la opción de regresar al hotel o continuar con otra experiencia en la región. Únete y descubre el paisaje cafetero desde una perspectiva inolvidable."
+        },
+        "senderismoparquedelosvenados": {
+            "titulo": "SENDERISMO PARQUE DE LOS NEVADOS",
+            "descripcion": "La actividad perfecta para los apasionados por la alta montaña; hacer senderismo en el nevado Santa Isabel es lograr la conexión con la naturaleza. Iniciaremos desde Pereira o Santa Rosa de Cabal, en vehículo 4x4 hasta Potosí. Antes del ingreso a Parques Nacionales, desayunamos en la finca de campesinos. El recorrido hasta el borde glaciar es de 3.5 km en ascenso, con dificultad alta por la altitud (4.000 a 4.700 msnm), el viento y el clima. Durante el trayecto se observan paisajes mágicos, flora única y posiblemente el cóndor andino. Al terminar, regresamos a Potosí para almorzar y volver al punto de inicio."
+        }
+    },
+    "adventuresContact": {
+        "cotizar": "Cotizar"
+    },
+    "__bikingXP": "bikingXP",
+    "bikingExperiences": {
+        "toursEnBicicleta": {
+            "titulo": "TOURS EN BICICLETA",
+            "descripcion": "Ciclismo en la Región Cafetera: Naturaleza, Cultura y Aventura sobre Ruedas Desde recorridos entre cultivos de café hasta travesías andinas de alta montaña, nuestras rutas en bicicleta ofrecen paisajes impresionantes, contacto con comunidades locales y gastronomía típica. Con opciones que se ajustan a todos los niveles, garantizamos una experiencia memorable en la majestuosidad natural y cultural de la región cafetera."
+        },
+        "rutaDelCacique": {
+            "titulo": "LA RUTA DEL CACIQUE",
+            "descripcion": "Quindío – Biking the Andes: Ciclismo Escénico por la Cordillera Central Recorre 24 km desde Calarcá por rutas terciarias con vistas al paisaje cafetero. Guiado por expertos, este itinerario intermedio combina belleza natural, interacción local y desafío físico. Elige entre bicicleta todoterreno de 9 cambios o eléctrica de 5 cambios para una experiencia personalizada sobre dos ruedas."
+        },
+        "rutaDelCaciqueFincaElParaiso": {
+            "titulo": "RUTA DEL CACIQUE & FINCA EL PARAÍSO",
+            "descripcion": "Ciclismo y Café: Ruta Patrimonial desde Calarcá hasta Finca El Paraíso Recorre 24 km en bicicleta por la cordillera central desde Calarcá, atravesando paisajes declarados Patrimonio Mundial por la UNESCO. La ruta culmina en una finca familiar, donde se disfruta un almuerzo típico y se vive el proceso completo del café: cultivo, cosecha, tostado y preparación. Una experiencia que une ciclismo, tradición cafetera y cultura regional."
+        }
+    },
+    "bikingContact": {
+        "cotizar": "Cotizar"
+    },
+    "__coffeeXP": "coffeeXP",
+    "coffeeExperiences": {
+        "cafeExcelencia": {
+            "titulo": "El Café de Excelencia: Desde la Semilla hasta la Taza",
+            "descripcion": "Descubre un rincón con rica historia cafetera, consolidado como epicentro del desarrollo en nuestro país...",
+            "ubicacion": "Región cafetera",
+            "cotizar": "Cotizar"
+        },
+        "fincaelparaiso": {
+            "titulo": "FINCA EL PARAÍSO",
+            "descripcion": "Ubicada en las montañas verdes de la región cafetera colombiana, la Finca \"El Paraíso\" es un símbolo de resiliencia y esperanza. Nacida del dolor de una familia desplazada por la violencia, estas tierras se transformaron en un nuevo comienzo. Aquí, cada grano de café es tratado con dedicación, desde la recolección hasta la post-cosecha, garantizando calidad y sabor. \"El Paraíso\" no solo produce uno de los mejores cafés de Colombia, sino que representa cómo la pasión puede convertir la adversidad en prosperidad.",
+            "ubicacion": "Montañas verdes del Quindío",
+            "cotizar": "Cotizar"
+        },
+        "fincalamorelia": {
+            "titulo": "FINCA LA MORELIA",
+            "descripcion": "Inmersión en el café de Finca La Morelia. Pioneros en la transformación del grano desde la semilla hasta la taza, Finca La Morelia es un negocio familiar con una historia rica en el mercado local. La experiencia inicia con una cálida bienvenida y una taza de café. Luego, recorremos los cultivos, la estación de procesamiento, el área de secado y la zona de tostado. Finalizamos con una divertida catación y una demostración de barista que cierra con broche de oro esta inmersión cafetera.",
+            "ubicacion": "Finca La Morelia",
+            "cotizar": "Cotizar"
+        },
+        "haciendasanalberto": {
+            "titulo": "HACIENDA SAN ALBERTO",
+            "descripcion": "Descubre el Éxtasis Cafetero en Hacienda San Alberto. Ubicada en las laderas de la cordillera central, en Buenavista, Hacienda San Alberto combina paisajes espectaculares con la tradición cafetera. La experiencia inicia con una caminata por las montañas, visitando el área de germinación, beneficio y secado del café. Luego, en la terraza, participamos en una catación semi-profesional guiada por expertos, donde aprendemos a identificar distintas calidades de café. Finalizamos con una exquisita taza y una vista inigualable, en una experiencia que une sabor y naturaleza.",
+            "ubicacion": "Buenavista, Cordillera Central",
+            "cotizar": "Cotizar"
+        },
+        "fincabuenosaires": {
+            "titulo": "FINCA BUENOS AIRES",
+            "descripcion": "Finca Buenos Aires: Un Viaje Revelador del Café. A solo 30 minutos de Salento, Finca Buenos Aires combina tradición, arquitectura regional y paisajes andinos únicos. En esta plantación tradicional, los visitantes disfrutan de un momento de serenidad antes de iniciar un recorrido inmersivo por el proceso del café. Caminamos entre cultivos, participamos en la cosecha, visitamos la estación de beneficio y el área de secado, y descubrimos el arte ancestral del tostado. En 1 hora y 30 minutos, esta experiencia deja recuerdos imborrables y un profundo aprecio por la cultura cafetera.",
+            "ubicacion": "30 minutos de Salento",
+            "cotizar": "Cotizar"
+        },
+        "fincacasavieja": {
+            "titulo": "FINCA CASA VIEJA",
+            "descripcion": "Finca Casa Vieja: Tradición, Naturaleza y Café en Armonía. A solo 10 minutos de Quimbaya, Casa Vieja es una finca cafetera familiar donde tradición y naturaleza se entrelazan. Guiados por un miembro de la familia, recorremos las plantaciones, conocemos su filosofía ecológica y visitamos la estación de beneficio. Caminamos entre árboles frutales y heliconias, aprendemos sobre el tostado artesanal y cerramos con una exquisita taza de café, en una experiencia que celebra la esencia de Casa Vieja.",
+            "ubicacion": "10 minutos de Quimbaya",
+            "cotizar": "Cotizar"
+        },
+        "haciendavenecia": {
+            "titulo": "HACIENDA VENECIA",
+            "descripcion": "Hacienda Venecia: Un Siglo de Elegancia Cafetera. A pocos minutos de Manizales, Hacienda Venecia ofrece más de 100 años de herencia cafetera entre paisajes imponentes y tradiciones vivas. Guiados por un conocedor local, iniciamos con una introducción al mundo del café, para luego recorrer plantaciones, vivir el día a día de los recolectores y conocer la zona de procesamiento. Finalizamos contemplando la transformación del grano en café tostado. Más que un recorrido, es un viaje por la historia y la esencia de la cultura cafetera.",
+            "ubicacion": "Manizales",
+            "cotizar": "Cotizar"
+        },
+        "fincaeldiamante": {
+            "titulo": "FINCA EL DIAMANTE",
+            "descripcion": "Delicia de la Cosecha de Cacao en la Finca El Diamante. Ubicada cerca de Quimbaya, Finca El Diamante ofrece una experiencia única en torno al cacao colombiano. Guiados por los nietos del dueño, apasionados por la agricultura, iniciamos con un recorrido por la plantación de cacao, descubriendo cada etapa del proceso hasta llegar a una barra o taza de chocolate. También conoceremos prácticas sostenibles aplicadas al cacao, café y plátano. La experiencia culmina con un almuerzo casero en una encantadora posada tradicional, fusionando sabor, cultura y naturaleza en un solo viaje.",
+            "ubicacion": "Cerca de Quimbaya",
+            "cotizar": "Cotizar"
+        },
+        "jardinbotanico&fincaelparaiso": {
+            "titulo": "JARDÍN BOTÁNICO & FINCA EL PARAÍSO",
+            "descripcion": "Una Jornada Inolvidable: Naturaleza y Café Colombiano. Vive un día completo de conexión con la naturaleza y la cultura cafetera. Iniciamos con una caminata por el Jardín Botánico y el Mariposario del Quindío, explorando colecciones de palmas, heliconias, helechos y observando cerca de 20 especies de mariposas. Luego, nos trasladamos a Finca El Paraíso, ubicada en las montañas verdes del Quindío, donde el café se cultiva con esmero y pasión. Allí conoceremos su historia de resiliencia, recorreremos el proceso del grano y cerraremos con una taza de café que encierra calidad, tradición y esperanza.",
+            "ubicacion": "Jardín Botánico y Finca El Paraíso",
+            "cotizar": "Cotizar"
+        },
+        "haciendavenecia&citytourmanizales": {
+            "titulo": "HACIENDA VENECIA & CITY TOUR MANIZALES",
+            "descripcion": "Del Café a Bolívar: Legado Cafetero y Esplendor Urbano. Iniciamos con un experto local que nos introduce al fascinante mundo del café. Recorremos plantaciones, vivimos la experiencia de los recolectores y presenciamos el proceso completo del grano hasta el café tostado. Luego, viajamos a Manizales, donde exploramos su historia en el Monumento a los Colonizadores, la Plaza de Bolívar, el Palacio de la Gobernación, la Catedral y La Torre el Cable. Concluimos con una taza de café, cerrando un viaje que une tradición cafetera y riqueza urbana.",
+            "ubicacion": "Manizales",
+            "cotizar": "Cotizar"
+        },
+        "fincadonmanolo": {
+            "titulo": "FINCA CAFETERA DON MANOLO",
+            "descripcion": "Finca Don Manolo: Magia Cafetera en Pereira. Ubicada en Pereira y rodeada de paisajes espectaculares, la Finca Don Manolo ofrece una experiencia inmersiva en el mundo del café. Aquí, los visitantes recorren todo el proceso, desde la siembra hasta el tostado, participando en actividades interactivas que revelan los secretos del grano. Con una cálida hospitalidad y cafés excepcionales, esta finca fusiona la pasión cafetera con la belleza natural, brindando una experiencia sensorial y cultural inolvidable.",
+            "ubicacion": "Pereira",
+            "cotizar": "Cotizar"
+        }
+    },
+    "coffeeContact": {
+        "cotizar": "Cotizar"
+    },
+    "__discoverin": "discovering",
+    "discoveringExperiences": {
+        "descubriendoexperiencias": {
+            "titulo": "Descubriendo Experiencias",
+            "descripcion": "Identidad y Cultura en el Paisaje Cultural Cafetero. Los colonizadores de Antioquia, Tolima, Cauca y Cundiboyacense formaron una población amable, solidaria y dedicada a su tierra. La transmisión generacional de saberes y tradiciones ha tejido la identidad campesina. Explorar esta región es sumergirse en prácticas artesanales, tradiciones culinarias y relatos únicos que enriquecen la experiencia del visitante.",
+            "ubicacion": "Paisaje Cultural Cafetero",
+            "cotizar": "Cotizar"
+        },
+        "tourdecacao&cesteria": {
+            "titulo": "TOUR DE CACAO & CESTERÍA",
+            "descripcion": "Tejiendo Historias: Cacao, Cultura y Cestería en El Diamante y Filandia. En la finca El Diamante (Quimbaya), los nietos del dueño nos guían entre cultivos de cacao, café y plátano, enseñándonos a elaborar chocolate y compartiendo un almuerzo en una fonda caminera. Por la tarde, en Filandia, exploramos su arquitectura antioqueña y visitamos a un artesano local, donde aprenderemos sobre la cestería y tejeremos nuestro propio recuerdo.",
+            "ubicacion": "Finca El Diamante, Filandia",
+            "cotizar": "Cotizar"
+        },
+        "puebliandoporlacordillerasanalberto": {
+            "titulo": "PUEBLIANDO POR LA CORDILLERA & HACIENDA SAN ALBERTO",
+            "descripcion": "Paisaje, Cultura y Café de Alta Gama. A bordo de jeeps Willys, exploramos los municipios cordilleranos de Córdoba, Pijao (ciudad slow) y Buenavista, disfrutando de vistas panorámicas. Finalizamos en la terraza San Alberto con un recorrido de dos horas y media por la ruta del café, desde la semilla hasta la taza, culminando con una degustación semiprofesional del café más premiado de Colombia.",
+            "ubicacion": "Región Cordillerana",
+            "cotizar": "Cotizar"
+        },
+        "cascadadealcalaelcontaduroyelmico": {
+            "titulo": "CASCADA DE ALCALÁ, EL CHONTADURO & EL MICO",
+            "descripcion": "Explora un destino no turístico en una caminata de 3 a 5 horas por el bosque subandino hacia dos majestuosas cascadas. Guiado por un experto, descubrirás la interpretación ambiental del entorno y las tradiciones locales. Una experiencia auténtica donde naturaleza e historias se entrelazan paso a paso.",
+            "ubicacion": "Alcala, Quindío",
+            "cotizar": "Cotizar"
+        },
+        "alcala&casavieja": {
+            "titulo": "CASCADA DE ALCALÁ & CASA VIEJA TOUR DE CAFÉ",
+            "descripcion": "En una caminata de tres horas por el bosque subandino, descubrimos dos cascadas ocultas, acompañados por un guía que interpreta el entorno y las tradiciones locales. Luego, visitamos una finca cafetera privada para conocer durante dos horas el proceso completo del café colombiano, desde la semilla hasta la taza. Una combinación inolvidable de naturaleza y cultura.",
+            "ubicacion": "Alcala, Quindío",
+            "cotizar": "Cotizar"
+        },
+        "alcala&bosquesaman": {
+            "titulo": "CASCADA DE ALCALÁ & CANOPY BOSQUES DEL SAMÁN",
+            "descripcion": "Explora un destino no turístico con una caminata de tres horas hacia dos cascadas en el bosque subandino, guiado por expertos locales que revelan tradiciones y secretos del entorno. Luego, vive siete vuelos de canopy durante una hora de emociones y vistas panorámicas, conectándote con la naturaleza desde tierra y aire en una experiencia única.",
+            "ubicacion": "Bosques del Samán, Quindío",
+            "cotizar": "Cotizar"
+        },
+        "rafting": {
+            "titulo": "RAFTING QUINDÍO",
+            "descripcion": "Recorre un río de nivel intermedio bajo, ideal para familias o amigos sin experiencia previa. Remarás entre suaves rápidos rodeado de vegetación exuberante, guiado por expertos que garantizan seguridad y diversión. Una experiencia llena de risas, trabajo en equipo y conexión con la naturaleza en el corazón del Quindío.",
+            "ubicacion": "Río Quindío",
+            "cotizar": "Cotizar"
+        },
+        "chontaduro&diamante": {
+            "titulo": "EL CHONTADURO & FINCA EL DIAMANTE",
+            "descripcion": "Explora el bosque subandino hacia dos majestuosas cascadas con un guía experto que revela secretos del entorno y tradiciones locales. Luego, en la Finca El Diamante (Quimbaya), recorre la plantación de cacao junto a los nietos del propietario, aprendiendo sobre procesos del chocolate y prácticas sostenibles que incluyen café y plátano. Culmina con un almuerzo casero en una posada tradicional.",
+            "ubicacion": "Finca El Diamante, Quimbaya",
+            "cotizar": "Cotizar"
+        }
+    },
+    "discoveringContact": {
+        "cotizar": "Cotizar"
+    },
+    "__nature": "nature",
+    "natureExperiences": {
+        "experienciasdenaturaleza": {
+            "titulo": "Experiencias De Naturaleza",
+            "descripcion": "Explora la Magia del Paisaje Cultural Cafetero: Naturaleza, Aventura y Experiencias Únicas. Descubre el tesoro natural del Paisaje Cultural Cafetero, en el corazón de los Andes Centrales, rodeado por valles interandinos, montañas nevadas del Parque Nacional Natural Los Nevados, bosques andinos, paisajes de páramo y puntos de avistamiento de aves. Sumérgete en rutas de trekking hacia lugares maravillosos y desafiantes, donde florecen orquídeas y colibríes habitan entornos únicos. En FOLKS TRAVEL diseñamos actividades adaptadas a cada viajero, desde caminatas relajadas hasta rutas de trekking exigentes, para disfrutar de la diversidad natural. Descubre la autenticidad de la naturaleza con nosotros: explora, aprende y conecta con el Paisaje Cultural Cafetero. ¡Prepárate para vivir experiencias inolvidables!"
+        },
+        "salentococoraacaime": {
+            "titulo": "SALENTO, COCORA & ACAIME",
+            "descripcion": "Una Jornada Completa de Naturaleza y Cultura. El recorrido a la Reserva Natural Acaime dura aproximadamente 5 horas: exploramos el bosque andino, cruzamos puentes colgantes, antiguos caminos de arriería, observamos aves y colibríes. Luego de un descanso con bebidas locales, regresamos a Cocora. En la tarde, visitamos Salento y su arquitectura, cafés y artesanías. Una experiencia que fusiona naturaleza y cultura en una jornada de descubrimientos."
+        },
+        "salentococorafilandia": {
+            "titulo": "SALENTO, COCORA & FILANDIA",
+            "descripcion": "Un Día Completo de Descubrimiento. Exploramos el majestuoso Valle de Cocora con una caminata de dos horas y una interpretación ambiental de su valor ecológico. Luego, nos sumergimos en la magia de Salento, conectándonos con su arquitectura y artesanías. Finalizamos en Filandia, recorriendo sus calles pintorescas, visitando el mirador y disfrutando una bebida local en su acogedora plaza."
+        },
+        "salentococora": {
+            "titulo": "SALENTO & COCORA",
+            "descripcion": "Naturaleza y Encanto Atemporal. Realizamos una caminata de dos horas por el bosque de palmas de cera, desvelando la importancia de la palma de cera del Quindío, árbol nacional y la más alta del mundo. Luego regresamos a Salento, donde su arquitectura antioqueña, casas coloridas y colinas exuberantes brindan un escenario ideal para relajarse y disfrutar antes de volver al hotel. Un viaje para descubrir la esencia del Valle de Cocora y el encanto atemporal de Salento."
+        },
+        "salentococorafincaba": {
+            "titulo": "SALENTO, COCORA & FINCA BUENOS AIRES",
+            "descripcion": "Naturaleza y Café Colombiano. Disfruta una caminata de dos horas en el Valle de Cocora, admirando las palmas de cera, símbolo nacional de Colombia. Luego, relájate en Salento, entre calles adoquinadas y casas vibrantes. La jornada continúa en la finca Buenos Aires, donde vivirás el proceso del café colombiano desde la semilla hasta la catación, recorriendo campos, cosecha, beneficio y secado."
+        },
+        "jardinbotanico": {
+            "titulo": "JARDIN BOTANICO DEL QUINDIO",
+            "descripcion": "Naturaleza, Ciencia y Belleza. Disfruta un recorrido guiado de dos horas por un bosque en recuperación, con senderos accesibles para todos. Contempla colecciones botánicas como palmas, helechos y heliconias. Visita una cabina de avistamiento de aves, un mirador del dosel del bosque, museos de insectos y mariposas, y finaliza en el mariposario con especies colombianas. Una experiencia que fusiona aventura y tranquilidad."
+        },
+        "carbonera": {
+            "titulo": "BOSQUES DE PALMA LA CARBONERA",
+            "descripcion": "Palmas de Cera y Paisajes Andinos. Ascendemos en Jeeps Willys por los Andes, atravesando bosques montañosos hasta llegar al bosque de palmas de cera más grande del mundo. Antes de llegar a la finca, realizamos una caminata con vistas únicas de las palmas. En la finca, compartimos con los lugareños y disfrutamos un refrigerio. De regreso a Salento, almorzamos tipo picnic (no incluido) en la montaña, con opción de caminar o volver en Jeep."
+        },
+        "romeliaorquideasyaves": {
+            "titulo": "FINCA LA ROMELIA ORQUÍDEAS Y AVES",
+            "descripcion": "Orquídeas, Aves y Hospitalidad Colombiana. Durante más de treinta años, Don José y su esposa han reunido una colección de más de 840 especies de orquídeas. Los visitantes disfrutarán de sus vibrantes colores y aromas, además de explorar cultivos de aguacate y cítricos. También se podrá avistar aves y compartir un almuerzo con la cálida familia anfitriona. En Finca La Romelia, tradición, naturaleza y hospitalidad se unen en una experiencia única."
+        },
+        "termalesruizparamonevados": {
+            "titulo": "TERMALES DEL RUIZ & PÁRAMO PARQUE DE LOS NEVADOS",
+            "descripcion": "Naturaleza, Aventura y Relajación. Desde Manizales (2,100 msnm) ascendemos hasta el PNN Los Nevados (4,100 msnm) con paradas panorámicas, de aclimatación y gastronómicas. Caminamos 3 km entre frailejones y aves como colibríes y gralarias. Luego, en Termales del Ruiz, disfrutamos un baño en aguas sulfurosas y observamos de 10 a 15 especies de colibríes en jardines diseñados. Finalizamos con un almuerzo en las termas antes de regresar al hotel."
+        },
+        "reservarioblanco": {
+            "titulo": "RESERVA NATURAL RÍO BLANCO",
+            "descripcion": "A solo 45 minutos de Manizales, Río Blanco es un ecosistema alto andino que alberga 350 especies de aves. Guiados por un experto local, exploramos los mejores puntos de observación para encontrar gralarias, loros, tangaras, saltadores enmascarados, colibríes y más. Un santuario natural donde los sonidos y colores de las aves crean una experiencia inolvidable."
+        },
+        "montezumarain": {
+            "titulo": "RESERVA NATURAL MONTEZUMA RAINFOREST",
+            "descripcion": "A 3 horas de Pereira, en el PNN Tatamá cerca de Pueblo Rico, Montezuma ofrece una aventura de 2 a 3 días en uno de los corredores más biodiversos del mundo. Administrado por una familia resiliente tras el conflicto armado, este refugio acoge a biólogos y amantes de las aves. Observa especies chocoanas y andinas, colibríes, tangaras, atrapamoscas y más, con el majestuoso Cerro Tatamá como telón de fondo."
+        },
+        "recintopensamientomanizales": {
+            "titulo": "RECINTO DEL PENSAMIENTO & CITY TOUR MANIZALES",
+            "descripcion": "La jornada inicia con un paseo en teleférico en el Recinto del Pensamiento, donde colibríes, mariposas y orquídeas cautivan entre el bosque alto andino. Visitamos una renombrada estructura en guadua del arquitecto Simón Vélez. En Manizales, exploramos el Monumento a los Colonizadores, la Plaza de Bolívar, la Catedral, y finalizamos en La Torre el Cable con una experiencia de café que encapsula la esencia de la ciudad."
+        },
+        "otunfilandiacesteria": {
+            "titulo": "OTUN QUIMBAYA, FILANDIA & CESTERIA",
+            "descripcion": "Iniciamos con una caminata en la Reserva Natural Otún Quimbaya hacia una majestuosa cascada, guiada por una interpretación ambiental del bosque andino. Luego, exploramos Filandia y su atmósfera local, visitando a un artesano en cestería tradicional. Una experiencia donde naturaleza, cultura y artesanía se entrelazan de forma inolvidable."
+        },
+        "romeliatrasladomedellin": {
+            "titulo": "FINCA LA ROMELIA & TRASLADO A MEDELLIN",
+            "descripcion": "A 1h30 de Pereira, visitamos la Finca La Romelia con más de 840 especies de orquídeas cultivadas por Don José y su esposa. Durante tres horas, exploramos colores, aromas, campos de aguacate y cítricos, con posibilidad de avistar aves. Culminamos con una comida familiar auténtica y emprendemos un apacible viaje por carretera hacia Medellín de 4 a 5 horas."
+        },
+        "termalessantarosa": {
+            "titulo": "TERMALES DE SANTA ROSA DE CABAL",
+            "descripcion": "A una hora de Pereira, descubrimos los Termales de Santa Rosa de Cabal, rodeados de Bosques Alto Andinos y una majestuosa cascada. Iniciamos con una interpretación ambiental, seguida de tiempo libre en las aguas termales. Finalizamos con una parada en Santa Rosa para disfrutar una bebida en su parque pintoresco, antes de regresar al hotel."
+        }
+    },
+    "natureContact": {
+        "cotizar": "Cotizar"
+    },
+    "othersXp": {
+        "title": "Estamos preprando nuevas experiencias para ti",
+        "contactButton": "Contáctanos"
+    },
+    "__nosotros": "nosotros",
+    "nosotros": {
+        "explorarConectarSentir": "Explorar - Conectar - Sentir",
+        "descripcion1": "Somos una familia de viajeros apasionados creando experiencias que transforman.",
+        "quienesSomos": "¿Quiénes somos?",
+        "descripcion2": "Nacimos con un propósito: convertir cada viaje en una historia que contar. Apostamos por una forma auténtica de viajar, conectando con lo local, lo natural y lo humano.",
+        "descripcion3": "Nuestra esencia está en vivir, sentir y respetar. Nos mueve la empatía, la sostenibilidad y el deseo profundo de compartir la magia de Colombia con el mundo.",
+        "comoViajamos": "¿Cómo viajamos?",
+        "descripcion4": "Creamos experiencias a la medida, alejadas de lo tradicional. Caminamos, pedaleamos, flotamos... y en cada paso buscamos que sientas el alma del lugar.",
+        "descripcion5": "Respetamos el entorno, impulsamos lo local y nos sumamos a la transformación positiva del turismo.",
+        "porQueElegirnos": "¿Por qué elegirnos?",
+        "punto1": "Conexión real con comunidades locales",
+        "punto2": "Diseño de experiencias personalizadas",
+        "punto3": "Amor por el detalle y lo humano",
+        "punto4": "Compromiso con la sostenibilidad",
+        "firma": "Folks Travel, experiencias que se sienten 🌿"
+    }
+}

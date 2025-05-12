@@ -1,0 +1,37 @@
+:root {
+  --card-bg-color: #2e2e2e;
+  --text-color: #ffffff;
+  --overlay-bg: rgba(0, 0, 0, 0.5);
+  --icon-color: #ffffff;
+  --label-font-size: 1rem;
+}
+
+html,
+body,
+#root {
+  height: auto;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background-color: transparent;
+  width: 100vw;
+  height: 100vh;
+  z-index: -9999;
+
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+      color: #213547;
+      background-color: #ffffff;
+  }
+}
+
+body {
+  margin: 0;
+  color: var(--text-color);
+}
+
+
+

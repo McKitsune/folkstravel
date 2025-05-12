@@ -1,0 +1,227 @@
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    box-sizing: border-box;
+}
+
+/* Animación base */
+.section-visible .biking-xp-section-text {
+    opacity: 1;
+    transform: translateY(0);
+    transition: all 0.8s ease-out;
+}
+
+/* Fondo fijo que no se desliza */
+.fp-container-biking::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Estado inicial oculto */
+.biking-xp-section-text {
+    opacity: 0;
+    transform: translateY(50px);
+}
+
+.biking-xp-section-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+    padding-top: 120px;
+    max-width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.biking-xp-section-text {
+    flex: 1;
+    min-width: 300px;
+    max-width: 500px;
+    padding-right: 50px;
+}
+
+.biking-xp-section-text h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.biking-xp-section-text h4 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    color: #ffffffcc;
+}
+
+.biking-xp-section-text p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+
+.biking-xp-section-text button {
+    background-color: #f78e55;
+    color: white;
+    border: none;
+    padding: 0.75rem 2rem;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.biking-xp-section-text button:hover {
+    background-color: #47ce22;
+}
+
+.image-collage {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+    width: 100%;
+    max-width: 600px;
+    opacity: 0;
+    transform: translateX(50px);
+    transition: all 0.8s ease-out;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.section-visible .image-collage {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.image-collage img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: 3/2;
+    transition: transform 0.3s ease-in-out;
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+/* Imagen hover */
+.image-collage img:hover {
+    transform: scale(1.2);
+    z-index: 1;
+    position: relative;
+}
+
+.biking-xp-section-img {
+    flex: 1;
+    min-width: 300px;
+    max-width: 500px;
+    text-align: center;
+}
+
+.biking-xp-section-img img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Ocultar flechas */
+.fp-arrows .arrow {
+    display: none;
+}
+
+/* Media query adicional para pantallas intermedias */
+@media (max-width: 1366px) {
+    .biking-xp-section-text h1 {
+        font-size: 2.5rem;
+    }
+
+    .biking-xp-section-content {
+        padding-top: 80px;
+    }
+
+    .biking-xp-section-text {
+        padding-right: 20px;
+    }
+
+    .image-collage {
+        transform: scale(0.95);
+    }
+}
+
+
+/* Media query para móviles */
+@media (max-width: 768px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .fp-container-biking {
+        height: auto !important;
+        overflow-y: auto !important;
+    }
+
+    .biking-xp-section-content {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 1.5rem;
+        padding: 2rem;
+        padding-top: 70px;
+        max-width: 90%;
+        margin: auto;
+        flex-wrap: wrap;
+        color: white;
+    }
+
+    .biking-xp-section-text {
+        flex: 1;
+        padding-right: 0px;
+    }
+
+    .biking-xp-section-text h1 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+        font-weight: 700;
+    }
+
+    .biking-xp-section-text h4 {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+        font-weight: 500;
+        color: #ffffffcc;
+    }
+
+    .biking-xp-section-text p {
+        font-size: 1rem;
+        line-height: 1.5;
+        margin-bottom: 2rem;
+        text-align: justify;
+    }
+
+    .biking-xp-section-text button:hover {
+        background-color: #22ce58;
+    }
+
+    .image-collage {
+        max-width: 100%;
+        overflow: hidden;
+        box-sizing: border-box;
+    }
+}
+

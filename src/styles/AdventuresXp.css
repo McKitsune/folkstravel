@@ -1,0 +1,228 @@
+html,
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.section-visible .adventures-xp-section-text {
+    opacity: 1;
+    transform: translateY(0);
+    transition: all 0.8s ease-out;
+}
+
+.fp-container-adventures::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: -1;
+    pointer-events: none;
+}
+
+.adventures-xp-section-text {
+    opacity: 0;
+    transform: translateY(50px);
+}
+
+.adventures-xp-section-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+    padding-top: 120px;
+    max-width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+    color: white;
+    overflow: hidden;
+}
+
+.adventures-xp-section-text {
+    flex: 1;
+    min-width: 300px;
+    max-width: 500px;
+    padding-right: 50px;
+}
+
+.adventures-xp-section-text h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.adventures-xp-section-text h4 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    color: #ffffffcc;
+}
+
+.adventures-xp-section-text p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+
+.adventures-xp-section-text button {
+    background-color: #f78e55;
+    color: white;
+    border: none;
+    padding: 0.75rem 2rem;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.adventures-xp-section-text button:hover {
+    background-color: #47ce22;
+}
+
+.image-collage {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+    width: 100%;
+    max-width: 600px;
+    opacity: 0;
+    transform: translateX(50px);
+    transition: all 0.8s ease-out;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.section-visible .image-collage {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.image-collage img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: 3/2;
+    transition: transform 0.3s ease-in-out;
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+.image-collage img:hover {
+    transform: scale(1.2);
+    z-index: 1;
+    position: relative;
+}
+
+.adventures-xp-section-img {
+    flex: 1;
+    min-width: 300px;
+    max-width: 500px;
+    text-align: center;
+}
+
+.adventures-xp-section-img img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+.fp-arrows .arrow {
+    display: none;
+}
+
+/* Media query para pantallas medianas (hasta 1366px) */
+@media (max-width: 1366px) {
+    .adventures-xp-section-text h1 {
+        font-size: 2.2rem;
+    }
+}
+
+
+@media (max-width: 1366px) {
+    .adventures-xp-section-text h1 {
+        font-size: 2.3rem;
+    }
+
+    .adventures-xp-section-content {
+        padding-top: 45px;
+    }
+
+    .adventures-xp-section-text {
+        padding-right: 20px;
+    }
+
+    .image-collage {
+        transform: scale(0.95);
+    }
+}
+
+/* Media query para pantallas móviles (768px o menos) */
+@media (max-width: 768px) {
+
+    html,
+    body {
+        max-width: 100%;
+        height: auto !important;
+        overflow-x: hidden;   /* bloquea solo scroll horizontal */
+        overflow-y: auto;     /* permite desplazamiento vertical */
+        box-sizing: border-box;
+    }
+
+    .fp-container-adventures {
+        height: auto !important;
+        overflow-y: auto !important;
+    }
+
+    .adventures-xp-section-content {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 1.5rem;
+        padding: 2rem;
+        padding-top: 70px;
+        max-width: 90%;
+        margin: auto;
+        flex-wrap: wrap;
+        color: white;
+    }
+
+    .adventures-xp-section-text {
+        padding: 0;
+        text-align: center;
+    }
+
+    .adventures-xp-section-text h1 {
+        font-size: 1.6rem;
+        margin-bottom: 0.1rem;
+        font-weight: 600;
+    }
+
+    .adventures-xp-section-text h4 {
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .adventures-xp-section-text p {
+        font-size: 0.95rem;
+        line-height: 1.4;
+    }
+
+    .image-collage {
+        grid-template-columns: 1fr;
+        max-width: 100%;
+        transform: none;
+    }
+}
+

@@ -1,0 +1,48 @@
+.fp-container-others {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    background: linear-gradient(135deg, #b9f4a8, #127784);
+    padding: 2rem;
+
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.fp-container-others h1 {
+    font-size: 60px;
+    color: #ffffff;
+    text-shadow: 3px 3px 4px #127784;
+    padding-bottom: 60px;
+}
+
+.fp-container-others button {
+    background-color: #d26f19;
+    color: #fff;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.fp-container-others button:hover {
+    background-color: #2da10d;
+    transform: translateY(-2px);
+}
+
+/* Animación opcional para efecto suave */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "__Header": "Header",
+    "logoAlt": "Folks Travel Logo",
+    "home": "Home",
+    "experiences": "Experiences",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "spanish": "Es",
+    "english": "En",
+    "__section1": "section1",
+    "coffeeXP": "COFFEE XP +",
+    "coffeeXPDesc": "Explore the coffee culture and its traditions",
+    "adventureXP": "ADVENTURE XP +",
+    "adventureXPDesc": "Embark on unique adventure experiences",
+    "bikeXP": "BIKE XP +",
+    "bikeXPDesc": "Tour the coffee plantations by bike",
+    "natureXP": "NATURE XP +",
+    "natureXPDesc": "Immerse yourself in enchanting nature reserves",
+    "discoveringXP": "DISCOVERING XP +",
+    "discoveringXPDesc": "Learn about the history and architecture of the Coffee Axis",
+    "otherXP": "OTHER XP +",
+    "otherXPDesc": "Explore a variety of new experiences",
+    "__section2": "section2",
+    "mensaje": "Traveling is not just about changing places, but living new stories. Each destination is designed for you to explore, discover, and create unforgettable memories.",
+    "__section3": "section3",
+    "risaralda": {
+        "descripcion": "In Risaralda, feel the vibrant energy of Pereira, the city without doors, and immerse yourself in the ecosystems of the Otún Quimbaya Fauna and Flora Sanctuary. Take walks through cloud forests, birdwatching of endemic species, and rural tourism in communities that combine tradition and sustainability."
+    },
+    "caldas": {
+        "descripcion": "In Caldas, experience the legacy of Manizales with its emblematic hot springs, volcanic landscapes, and mountain architecture. Explore authentic coffee routes, live the arriero culture in traditional farms, and be amazed by the majesty of the Los Nevados National Natural Park."
+    },
+    "quindio": {
+        "descripcion": "Quindío, with its capital Armenia and magical towns like Salento and Filandia, is the living postcard of coffee. Here, the aroma of freshly roasted coffee accompanies each step among wax palms, colorful balconies, colonial architecture, and experiences ranging from sensory tours in coffee farms to adventures in the Cocora Valley."
+    },
+    "texto1": "Each place has its own magic that tells unique stories, making every journey unforgettable.",
+    "texto2": "We travel the paths of a true natural treasure, with an amazing variety of ecosystems, rich flora, and fauna.",
+    "__section4": "section4",
+    "section4": {
+        "titulo": "Get ready for your next experience",
+        "subtitulo": "Write to us and let's make the magic happen, exploring places with incredible stories.",
+        "contactanos": "Contact Us",
+        "nombre": "Name",
+        "correo": "Email",
+        "mensaje": "Message",
+        "enviar": "Send",
+        "enviando": "Sending...",
+        "exito": "Message sent!",
+        "error": "Error sending the message."
+    },
+    "__contacto": "contacto",
+    "contacto": {
+        "contactanos": "Contact Us",
+        "experiencia": "We are ready to plan your next unforgettable experience.",
+        "email": "Email",
+        "telefono": "Phone",
+        "direccion": "Address",
+        "nombre": "Name",
+        "correo": "Email",
+        "mensaje": "Message",
+        "enviar": "Send",
+        "exito": "✔ Message sent!",
+        "error": "✖ Error sending."
+    },
+    "__experiencias": "experiencias",
+    "section2": {
+        "titulo": "Every trip leaves a mark",
+        "mensaje": "There are moments that transform. We don’t just visit places: we connect with the essence of each destination, its people, its stories, and its magic. You are about to live memories that will stay with you forever. Because here, every experience has a soul."
+    },
+    "experiencias1": {
+        "coffeeXP": {
+            "title": "Coffee XP"
+        },
+        "adventureXP": {
+            "title": "Adventures XP"
+        },
+        "natureXP": {
+            "title": "Nature XP"
+        },
+        "discoveringXP": {
+            "title": "Discovering XP"
+        },
+        "bikeXP": {
+            "title": "Biking XP"
+        },
+        "otherXP": {
+            "title": "Other XP"
+        }
+    },
+    "__adventuresXP": "adventuresXP",
+    "adventures": {
+        "adventuresXP": {
+            "titulo": "Adventure Experiences",
+            "descripcion": "Venture into a scenario of perpetual snow, moors, high Andean forests, valleys, plains, and powerful rivers that reveal the natural wealth of the coffee cultural landscape. We offer adventure experiences that connect tourists with nature and local communities, promoting responsible and sustainable tourism that leaves an unforgettable mark on the heart and spirit."
+        },
+        "cabalgatareservalamaria": {
+            "titulo": "CABALGATA RESERVA NATURAL LA MARIA",
+            "descripcion": "The picturesque valleys sculpted by the Quindío River provide the perfect setting to explore on horseback. We will cross rivers, ascend the Andean hills, and contemplate the majesty of the Central Mountain Range. We will pass through various agricultural crops before ending our experience at a charming viewpoint, where we will enjoy traditional regional snacks. Join us in discovering the natural beauty of the region on horseback, in an adventure that combines horseback riding with the serenity of the environment."
+        },
+        "cabalgatalamaria&fincalamorelia": {
+            "titulo": "CABALGATA LA MARIA & FINCA LA MORELIA",
+            "descripcion": "Embark on a full day of discovery, during five hours (including transfers), you will explore the picturesque valleys formed by the Quindío River on horseback for two hours. The experience will culminate in a beautiful viewpoint with traditional regional snacks. Later, at Finca La Morelia, we will be welcomed with an exquisite cup of coffee, we will explore the plantations, the processing area, the drying zone, and the roasting area. The experience ends with a fun coffee tasting activity and a barista demonstration."
+        },
+        "balsajeriolavieja": {
+            "titulo": "RAFTING RIO LA VIEJA",
+            "descripcion": "Embark on an unforgettable experience with our Rafting Tour on the Rio La Vieja, an activity lasting between 4 and 5 hours that connects you with nature, local culture, and the history of the coffee region. Navigating its waters is to revive a legacy from the Antioquian colonization. The journey is made in handmade guadua rafts, guided by two expert local paddlers, who will lead you to enjoy every moment of this authentic journey. Experience the magic of Rio La Vieja and take unforgettable memories of this natural and cultural gem of Colombia."
+        },
+        "fincaeldiamante&canopybosquesdelsaman": {
+            "titulo": "FINCA EL DIAMANTE & CANOPY BOSQUE DEL SAMAN",
+            "descripcion": "The experience begins at Finca El Diamante, near Quimbaya, where the owner's grandchildren will transmit the inherited agricultural passion. We will walk through cocoa crops, learning about the Colombian chocolate process and the farm's sustainability with cocoa, coffee, and banana. In the end, we will learn to make chocolate and share a typical lunch at a traditional fonda. Later, in Bosque del Samán, we will experience canopy with seven flights and Tibetan bridges, enjoying landscapes and crops that form the coffee cultural landscape."
+        },
+        "globoaerostatico": {
+            "titulo": "HOT AIR BALLOON RIDE",
+            "descripcion": "Embark on a unique experience: a hot air balloon ride that reveals the exceptional topography of the coffee cultural landscape. During 3 hours, including transfers, our travelers will participate in the balloon inflation, sharing moments with the crew and tasting local coffee. As the balloon rises, they will enjoy the magnificent beauty of rivers, mountains, and valleys in a 30 to 60-minute flight. Although the landing is uncertain, our team guarantees transportation assistance with the option to return to the hotel or continue with another experience in the region. Join us and discover the coffee landscape from an unforgettable perspective."
+        },
+        "senderismoparquedelosvenados": {
+            "titulo": "SENDERISMO PARQUE DE LOS NEVADOS",
+            "descripcion": "The perfect activity for mountain lovers; hiking in the Santa Isabel snow-capped peak is achieving a deep connection with nature. We will start from Pereira or Santa Rosa de Cabal, in a 4x4 vehicle to Potosí. Before entering National Parks, we will have breakfast at a farmer's farm. The hike to the glacier's edge is 3.5 km uphill, with high difficulty due to altitude (4,000 to 4,700 meters above sea level), wind, and climate. During the trip, you will observe magical landscapes, unique flora, and possibly the Andean condor. Afterward, we return to Potosí to have lunch and head back to the starting point."
+        }
+    },
+    "adventuresContact": {
+        "cotizar": "Request a Quote"
+    },
+    "__bikingXP": "bikingXP",
+    "bikingExperiences": {
+        "toursEnBicicleta": {
+            "titulo": "BIKE TOURS",
+            "descripcion": "Cycling in the Coffee Region: Nature, Culture, and Adventure on Wheels. From rides through coffee plantations to high-mountain Andean treks, our bike routes offer stunning landscapes, interaction with local communities, and typical gastronomy. With options for all levels, we guarantee a memorable experience in the natural and cultural majesty of the coffee region."
+        },
+        "rutaDelCacique": {
+            "titulo": "THE CACIQUE ROUTE",
+            "descripcion": "Quindío – Biking the Andes: Scenic Cycling through the Central Mountain Range. Ride 24 km from Calarcá through tertiary routes with views of the coffee landscape. Guided by experts, this intermediate itinerary combines natural beauty, local interaction, and physical challenge. Choose between a 9-speed mountain bike or a 5-speed electric bike for a personalized two-wheel experience."
+        },
+        "rutaDelCaciqueFincaElParaiso": {
+            "titulo": "THE CACIQUE ROUTE & FINCA EL PARAÍSO",
+            "descripcion": "Cycling and Coffee: Heritage Route from Calarcá to Finca El Paraíso. Ride 24 km by bike through the central mountain range from Calarcá, crossing landscapes declared UNESCO World Heritage. The route ends at a family farm, where we enjoy a typical lunch and experience the full coffee process: cultivation, harvesting, roasting, and brewing. An experience that combines cycling, coffee tradition, and regional culture."
+        }
+    },
+    "bikingContact": {
+        "cotizar": "Request a Quote"
+    },
+    "__coffeeXP": "coffeeXP",
+    "coffeeExperiences": {
+        "cafeExcelencia": {
+            "titulo": "Excellence Coffee: From the Seed to the Cup",
+            "descripcion": "Discover a corner with a rich coffee history, established as the epicenter of development in our country...",
+            "ubicacion": "Coffee Region",
+            "cotizar": "Quote"
+        },
+        "fincaelparaiso": {
+            "titulo": "FINCA EL PARAÍSO",
+            "descripcion": "Located in the green mountains of the Colombian coffee region, Finca 'El Paraíso' is a symbol of resilience and hope. Born from the pain of a family displaced by violence, this land was transformed into a new beginning. Here, every coffee bean is treated with care, from harvesting to post-harvest, ensuring quality and flavor. 'El Paraíso' not only produces one of the best coffees in Colombia but also represents how passion can turn adversity into prosperity.",
+            "ubicacion": "Green Mountains of Quindío",
+            "cotizar": "Quote"
+        },
+        "fincalamorelia": {
+            "titulo": "FINCA LA MORELIA",
+            "descripcion": "Immersion in the coffee of Finca La Morelia. Pioneers in the transformation of the bean from seed to cup, Finca La Morelia is a family business with a rich history in the local market. The experience begins with a warm welcome and a cup of coffee. Then, we tour the crops, processing station, drying area, and roasting zone. We finish with a fun cupping session and a barista demonstration that wraps up this coffee immersion.",
+            "ubicacion": "Finca La Morelia",
+            "cotizar": "Quote"
+        },
+        "haciendasanalberto": {
+            "titulo": "HACIENDA SAN ALBERTO",
+            "descripcion": "Discover Coffee Bliss at Hacienda San Alberto. Located on the slopes of the central mountain range in Buenavista, Hacienda San Alberto combines spectacular landscapes with coffee tradition. The experience begins with a hike through the mountains, visiting the germination, processing, and drying areas of coffee. Then, on the terrace, we participate in a semi-professional cupping session guided by experts, where we learn to identify different coffee qualities. We finish with a delicious cup and unparalleled views, in an experience that combines flavor and nature.",
+            "ubicacion": "Buenavista, Central Mountain Range",
+            "cotizar": "Quote"
+        },
+        "fincabuenosaires": {
+            "titulo": "FINCA BUENOS AIRES",
+            "descripcion": "Finca Buenos Aires: A Revelatory Coffee Journey. Just 30 minutes from Salento, Finca Buenos Aires combines tradition, regional architecture, and unique Andean landscapes. In this traditional plantation, visitors enjoy a moment of serenity before embarking on an immersive tour of the coffee process. We walk among crops, participate in harvesting, visit the processing station and drying area, and discover the ancestral art of roasting. In 1 hour and 30 minutes, this experience leaves unforgettable memories and a deep appreciation for coffee culture.",
+            "ubicacion": "30 minutes from Salento",
+            "cotizar": "Quote"
+        },
+        "fincacasavieja": {
+            "titulo": "FINCA CASA VIEJA",
+            "descripcion": "Finca Casa Vieja: Tradition, Nature, and Coffee in Harmony. Just 10 minutes from Quimbaya, Casa Vieja is a family coffee farm where tradition and nature intertwine. Guided by a family member, we tour the plantations, learn about their ecological philosophy, and visit the processing station. We walk among fruit trees and heliconias, learn about artisanal roasting, and finish with a delicious cup of coffee, in an experience that celebrates the essence of Casa Vieja.",
+            "ubicacion": "10 minutes from Quimbaya",
+            "cotizar": "Quote"
+        },
+        "haciendavenecia": {
+            "titulo": "HACIENDA VENECIA",
+            "descripcion": "Hacienda Venecia: A Century of Coffee Elegance. Just a few minutes from Manizales, Hacienda Venecia offers over 100 years of coffee heritage amid stunning landscapes and living traditions. Guided by a local expert, we begin with an introduction to the world of coffee, then tour plantations, experience the daily life of harvesters, and learn about the processing area. We finish by witnessing the transformation of the bean into roasted coffee. More than just a tour, it's a journey through the history and essence of coffee culture.",
+            "ubicacion": "Manizales",
+            "cotizar": "Quote"
+        },
+        "fincaeldiamante": {
+            "titulo": "FINCA EL DIAMANTE",
+            "descripcion": "Delight in the Cocoa Harvest at Finca El Diamante. Located near Quimbaya, Finca El Diamante offers a unique experience around Colombian cacao. Guided by the owner’s grandchildren, passionate about agriculture, we begin with a tour of the cacao plantation, discovering each step of the process until reaching a bar or cup of chocolate. We will also learn about sustainable practices applied to cacao, coffee, and plantains. The experience ends with a homemade lunch in a charming traditional inn, blending flavor, culture, and nature in one trip.",
+            "ubicacion": "Near Quimbaya",
+            "cotizar": "Quote"
+        },
+        "jardinbotanico&fincaelparaiso": {
+            "titulo": "BOTANICAL GARDEN & FINCA EL PARAÍSO",
+            "descripcion": "An Unforgettable Journey: Nature and Colombian Coffee. Experience a full day of connection with nature and coffee culture. We begin with a walk through the Botanical Garden and the Mariposario del Quindío, exploring palm collections, heliconias, ferns, and observing nearly 20 species of butterflies. Then, we head to Finca El Paraíso, located in the green mountains of Quindío, where coffee is cultivated with care and passion. There, we learn about its history of resilience, explore the coffee process, and finish with a cup of coffee that embodies quality, tradition, and hope.",
+            "ubicacion": "Botanical Garden and Finca El Paraíso",
+            "cotizar": "Quote"
+        },
+        "haciendavenecia&citytourmanizales": {
+            "titulo": "HACIENDA VENECIA & CITY TOUR MANIZALES",
+            "descripcion": "From Coffee to Bolívar: Coffee Legacy and Urban Splendor. We start with a local expert introducing us to the fascinating world of coffee. We tour plantations, live the experience of the harvesters, and witness the entire process of the coffee bean to roasted coffee. Then, we travel to Manizales, where we explore its history at the Monument to the Colonizers, Plaza de Bolívar, the Palace of the Governor’s Office, the Cathedral, and the Torre el Cable. We conclude with a cup of coffee, closing a journey that unites coffee tradition and urban richness.",
+            "ubicacion": "Manizales",
+            "cotizar": "Quote"
+        },
+        "fincadonmanolo": {
+            "titulo": "DON MANOLO COFFEE FARM",
+            "descripcion": "Finca Don Manolo: Coffee Magic in Pereira. Located in Pereira and surrounded by spectacular landscapes, Finca Don Manolo offers an immersive experience in the world of coffee. Here, visitors tour the entire process, from planting to roasting, participating in interactive activities that reveal the secrets of the bean. With warm hospitality and exceptional coffee, this farm blends coffee passion with natural beauty, providing an unforgettable sensory and cultural experience.",
+            "ubicacion": "Pereira",
+            "cotizar": "Quote"
+        }
+    },
+    "coffeeContact": {
+        "cotizar": "Request a Quote"
+    },
+    "__discoverin": "discovering",
+    "discoveringExperiences": {
+        "descubriendoexperiencias": {
+            "titulo": "Discovering Experiences",
+            "descripcion": "Identity and Culture in the Coffee Cultural Landscape. Colonizers from Antioquia, Tolima, Cauca, and Cundiboyacense formed a friendly, supportive, and land-dedicated population. The generational transmission of knowledge and traditions has woven the peasant identity. Exploring this region means diving into artisanal practices, culinary traditions, and unique stories that enrich the visitor's experience.",
+            "ubicacion": "Coffee Cultural Landscape",
+            "cotizar": "Quote"
+        },
+        "tourdecacao&cesteria": {
+            "titulo": "COCOA & BASKETRY TOUR",
+            "descripcion": "Weaving Stories: Cocoa, Culture, and Basketry in El Diamante and Filandia. In the Finca El Diamante (Quimbaya), the owner's grandchildren guide us through cocoa, coffee, and plantain fields, teaching us how to make chocolate and sharing a lunch in a traditional inn. In the afternoon, in Filandia, we explore its Antioquian architecture and visit a local artisan, where we will learn about basketry and weave our own keepsake.",
+            "ubicacion": "Finca El Diamante, Filandia",
+            "cotizar": "Quote"
+        },
+        "puebliandoporlacordillerasanalberto": {
+            "titulo": "VILLAGING THROUGH THE CORDILLERA & HACIENDA SAN ALBERTO",
+            "descripcion": "Landscape, Culture, and Premium Coffee. Aboard Willys jeeps, we explore the mountain towns of Córdoba, Pijao (slow city), and Buenavista, enjoying panoramic views. We finish at the San Alberto terrace with a two-and-a-half-hour coffee tour, from seed to cup, culminating in a semi-professional tasting of Colombia’s most awarded coffee.",
+            "ubicacion": "Cordillera Region",
+            "cotizar": "Quote"
+        },
+        "cascadadealcalaelcontaduroyelmico": {
+            "titulo": "ALCÁLA WATERFALL, CHONTADURO & EL MICO",
+            "descripcion": "Explore a non-touristy destination on a 3-5 hour hike through the sub-Andean forest to two majestic waterfalls. Guided by an expert, you will discover the environmental interpretation of the surroundings and local traditions. An authentic experience where nature and stories intertwine step by step.",
+            "ubicacion": "Alcala, Quindío",
+            "cotizar": "Quote"
+        },
+        "alcala&casavieja": {
+            "titulo": "ALCÁLA WATERFALL & CASA VIEJA COFFEE TOUR",
+            "descripcion": "On a three-hour hike through the sub-Andean forest, we discover two hidden waterfalls, accompanied by a guide who interprets the surroundings and local traditions. Then, we visit a private coffee farm to learn about the complete Colombian coffee process, from seed to cup, for two hours. An unforgettable combination of nature and culture.",
+            "ubicacion": "Alcala, Quindío",
+            "cotizar": "Quote"
+        },
+        "alcala&bosquesaman": {
+            "titulo": "ALCÁLA WATERFALL & BOSQUES DEL SAMÁN CANOPY",
+            "descripcion": "Explore a non-touristy destination with a three-hour hike to two waterfalls in the sub-Andean forest, guided by local experts who reveal traditions and secrets of the surroundings. Then, enjoy seven canopy flights during one hour of emotions and panoramic views, connecting with nature both on the ground and in the air in a unique experience.",
+            "ubicacion": "Bosques del Samán, Quindío",
+            "cotizar": "Quote"
+        },
+        "rafting": {
+            "titulo": "RAFTING QUINDÍO",
+            "descripcion": "Raft down a low-intermediate river, ideal for families or friends with no previous experience. You will paddle through gentle rapids surrounded by lush vegetation, guided by experts ensuring safety and fun. A journey full of laughter, teamwork, and connection with nature in the heart of Quindío.",
+            "ubicacion": "Quindío River",
+            "cotizar": "Quote"
+        },
+        "chontaduro&diamante": {
+            "titulo": "CHONTADURO & FINCA EL DIAMANTE",
+            "descripcion": "Explore the sub-Andean forest towards two majestic waterfalls with an expert guide revealing secrets of the surroundings and local traditions. Then, at Finca El Diamante (Quimbaya), walk through the cacao plantation with the owner's grandchildren, learning about chocolate processes and sustainable practices including coffee and plantains. End with a homemade lunch at a traditional inn.",
+            "ubicacion": "Finca El Diamante, Quimbaya",
+            "cotizar": "Quote"
+        }
+    },
+    "discoveringContact": {
+        "cotizar": "Request a Quote"
+    },
+    "__nature": "nature",
+    "natureExperiences": {
+        "experienciasdenaturaleza": {
+            "titulo": "Nature Experiences",
+            "descripcion": "Explore the magic of the Coffee Cultural Landscape: Nature, Adventure, and Unique Experiences. Discover the natural treasure of the Coffee Cultural Landscape, in the heart of the Central Andes, surrounded by inter-Andean valleys, snow-capped mountains of the Los Nevados National Natural Park, Andean forests, páramo landscapes, and birdwatching spots. Immerse yourself in trekking routes to wonderful and challenging places, where orchids bloom, and hummingbirds inhabit unique environments. At FOLKS TRAVEL, we design activities tailored to each traveler, from relaxing walks to demanding trekking routes, to enjoy the natural diversity. Discover the authenticity of nature with us: explore, learn, and connect with the Coffee Cultural Landscape. Get ready to live unforgettable experiences!"
+        },
+        "salentococoraacaime": {
+            "titulo": "SALENTO, COCORA & ACAIME",
+            "descripcion": "A Complete Day of Nature and Culture. The tour to the Acaime Natural Reserve lasts about 5 hours: we explore the Andean forest, cross hanging bridges, ancient muleteer paths, and observe birds and hummingbirds. After a break with local drinks, we return to Cocora. In the afternoon, we visit Salento with its architecture, cafés, and crafts. An experience that blends nature and culture in a day full of discoveries."
+        },
+        "salentococorafilandia": {
+            "titulo": "SALENTO, COCORA & FILANDIA",
+            "descripcion": "A Full Day of Discovery. We explore the majestic Cocora Valley with a two-hour walk and an environmental interpretation of its ecological value. Then, we immerse ourselves in the magic of Salento, connecting with its architecture and handicrafts. We finish in Filandia, walking through its picturesque streets, visiting the viewpoint, and enjoying a local drink in its cozy square."
+        },
+        "salentococora": {
+            "titulo": "SALENTO & COCORA",
+            "descripcion": "Timeless Nature and Charm. We take a two-hour walk through the wax palm forest, uncovering the importance of the Quindío wax palm, the national tree and the tallest in the world. Then we return to Salento, where its Antioquian architecture, colorful houses, and lush hills provide an ideal setting to relax and enjoy before heading back to the hotel. A trip to discover the essence of the Cocora Valley and the timeless charm of Salento."
+        },
+        "salentococorafincaba": {
+            "titulo": "SALENTO, COCORA & FINCA BUENOS AIRES",
+            "descripcion": "Nature and Colombian Coffee. Enjoy a two-hour walk in the Cocora Valley, admiring the wax palms, the national symbol of Colombia. Then, relax in Salento, among cobbled streets and vibrant houses. The day continues at Finca Buenos Aires, where you’ll experience the entire Colombian coffee process from seed to tasting, touring the fields, harvest, processing, and drying."
+        },
+        "jardinbotanico": {
+            "titulo": "QUINDÍO BOTANICAL GARDEN",
+            "descripcion": "Nature, Science, and Beauty. Enjoy a guided two-hour tour through a recovering forest, with accessible paths for everyone. Observe botanical collections like palms, ferns, and heliconias. Visit a birdwatching cabin, a canopy forest viewpoint, insect and butterfly museums, and finish in the butterfly house with Colombian species. An experience that blends adventure and tranquility."
+        },
+        "carbonera": {
+            "titulo": "PALM FORESTS OF LA CARBONERA",
+            "descripcion": "Wax Palms and Andean Landscapes. We ascend in Willys Jeeps through the Andes, crossing mountainous forests to reach the largest wax palm forest in the world. Before reaching the farm, we take a walk with unique views of the palms. At the farm, we interact with locals and enjoy a snack. On the way back to Salento, we have a picnic lunch (not included) in the mountains, with the option to walk or return by Jeep."
+        },
+        "romeliaorquideasyaves": {
+            "titulo": "FINCA LA ROMELIA ORCHIDS AND BIRDS",
+            "descripcion": "Orchids, Birds, and Colombian Hospitality. For over thirty years, Don José and his wife have gathered a collection of over 840 species of orchids. Visitors will enjoy their vibrant colors and aromas, as well as explore avocado and citrus crops. Birds can also be spotted, and lunch is shared with the warm family hosts. At Finca La Romelia, tradition, nature, and hospitality come together in a unique experience."
+        },
+        "termalesruizparamonevados": {
+            "titulo": "TERMAL RUIZ & LOS NEVADOS PARAMO PARK",
+            "descripcion": "Nature, Adventure, and Relaxation. From Manizales (2,100 m.a.s.l.), we ascend to the PNN Los Nevados (4,100 m.a.s.l.) with panoramic, acclimatization, and gastronomic stops. We walk 3 km between frailejones and birds such as hummingbirds and gralarias. Then, at Termales del Ruiz, we enjoy a bath in sulfurous waters and observe 10 to 15 species of hummingbirds in designed gardens. We finish with lunch at the thermal springs before returning to the hotel."
+        },
+        "reservarioblanco": {
+            "titulo": "RÍO BLANCO NATURAL RESERVE",
+            "descripcion": "Just 45 minutes from Manizales, Río Blanco is a high Andean ecosystem that hosts 350 species of birds. Guided by a local expert, we explore the best observation points to spot gralarias, parrots, tanagers, masked saltators, hummingbirds, and more. A natural sanctuary where the sounds and colors of birds create an unforgettable experience."
+        },
+        "montezumarain": {
+            "titulo": "MONTEZUMA RAINFOREST RESERVE",
+            "descripcion": "3 hours from Pereira, in the PNN Tatamá near Pueblo Rico, Montezuma offers a 2-3 day adventure in one of the world’s most biodiverse corridors. Managed by a resilient family after the armed conflict, this refuge welcomes biologists and bird lovers. Observe Chocó and Andean species, hummingbirds, tanagers, flycatchers, and more, with the majestic Cerro Tatamá as the backdrop."
+        },
+        "recintopensamientomanizales": {
+            "titulo": "RECINTO DEL PENSAMIENTO & CITY TOUR MANIZALES",
+            "descripcion": "The day begins with a cable car ride at Recinto del Pensamiento, where hummingbirds, butterflies, and orchids captivate visitors amid the high Andean forest. We visit a renowned bamboo structure by architect Simón Vélez. In Manizales, we explore the Monument to the Colonizers, Plaza de Bolívar, the Cathedral, and finish at La Torre el Cable with a coffee experience that encapsulates the essence of the city."
+        },
+        "otunfilandiacesteria": {
+            "titulo": "OTÚN QUIMBAYA, FILANDIA & BASKETRY",
+            "descripcion": "We start with a walk in the Otún Quimbaya Natural Reserve to a majestic waterfall, guided by an environmental interpretation of the Andean forest. Then, we explore Filandia and its local atmosphere, visiting a basketry artisan. An unforgettable experience where nature, culture, and craftsmanship intertwine."
+        },
+        "romeliatrasladomedellin": {
+            "titulo": "FINCA LA ROMELIA & TRANSFER TO MEDELLÍN",
+            "descripcion": "1h30 from Pereira, we visit Finca La Romelia, with more than 840 species of orchids cultivated by Don José and his wife. Over three hours, we explore colors, aromas, avocado, and citrus fields, with the chance to spot birds. We finish with an authentic family meal and embark on a peaceful 4-5 hour road trip to Medellín."
+        },
+        "termalessantarosa": {
+            "titulo": "SANTA ROSA DE CABAL HOT SPRINGS",
+            "descripcion": "An hour from Pereira, we discover the Santa Rosa de Cabal Hot Springs, surrounded by High Andean Forests and a majestic waterfall. We begin with an environmental interpretation, followed by free time in the hot springs. We finish with a stop in Santa Rosa to enjoy a drink in its picturesque park before returning to the hotel."
+        }
+    },
+    "natureContact": {
+        "cotizar": "Request a Quote"
+    },
+    "othersXp": {
+        "title": "We are preparing new experiences for you",
+        "contactButton": "Contact Us"
+    },
+    "__nosotros": "nosotros",
+    "nosotros": {
+        "explorarConectarSentir": "Explore - Connect - Feel",
+        "descripcion1": "We are a family of passionate travelers creating transformative experiences.",
+        "quienesSomos": "Who are we?",
+        "descripcion2": "We were born with a purpose: to turn every trip into a story worth telling. We bet on an authentic way of traveling, connecting with the local, the natural, and the human.",
+        "descripcion3": "Our essence lies in living, feeling, and respecting. We are driven by empathy, sustainability, and a deep desire to share the magic of Colombia with the world.",
+        "comoViajamos": "How do we travel?",
+        "descripcion4": "We create tailor-made experiences, far from the traditional. We walk, bike, float... and with every step, we want you to feel the soul of the place.",
+        "descripcion5": "We respect the environment, support local initiatives, and contribute to the positive transformation of tourism.",
+        "porQueElegirnos": "Why choose us?",
+        "punto1": "Real connection with local communities",
+        "punto2": "Personalized experience design",
+        "punto3": "Love for details and humanity",
+        "punto4": "Commitment to sustainability",
+        "firma": "Folks Travel, experiences that are felt 🌿"
+    }
+}
