@@ -3,6 +3,7 @@ import Section1 from "../components/Section1";
 import Section2 from "../components/Section2";
 import Section3 from "../components/Section3";
 import Section4 from "../components/Section4";
+import Section5 from "../components/Section5";
 import Header from "../components/Header";
 import Footer from "../components/Footer"
 import '../styles/customfp.css';
@@ -27,6 +28,7 @@ function Home() {
                 <div className="fp-section"><Section1 /></div>
                 <div className="fp-section"><Section2 /></div>
                 <div className="fp-section"><Section3 /></div>
+                <div className="fp-section"><Section5 /></div>
                 <div className="fp-section"><Section4 /></div>
             </div>
 

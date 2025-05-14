@@ -47,6 +47,12 @@
         "exito": "¡Mensaje enviado!",
         "error": "Error al enviar el mensaje."
     },
+    "__section5": "",
+    "section5": {
+        "titulo": "Conectamos tu camino, acompañamos tu historia",
+        "texto1": "En el Eje Cafetero, cada viaje es mucho más que un trayecto; es conectar contigo, descubrir juntos paisajes que inspiran y unir sueños y familias.",
+        "texto2":"Nuestro transporte te ofrece seguridad, comodidad y respeto en cada kilómetro. No solo llevamos pasajeros, llevamos experiencias y esperanza. Déjanos acompañarte en tu camino con calidez y puntualidad. Más que un servicio, somos tu compromiso en el Eje Cafetero."
+    },
     "__contacto": "contacto",
     "contacto": {
         "contactanos": "Contáctanos",
@@ -350,5 +356,5 @@
         "punto3": "Amor por el detalle y lo humano",
         "punto4": "Compromiso con la sostenibilidad",
         "firma": "Folks Travel, experiencias que se sienten 🌿"
-    }
+    }    
 }

@@ -57,7 +57,7 @@ function Section4() {
 
     return (
         <div ref={sectionRef} className={`section4 ${isVisible ? 'visible' : ''}`}>
-            <div className="overlay"></div>
+            <div className="overlays4"></div>
             <div className="section4-content">
                 <div className={`contact-intro slide-animate-wrap ${isVisible ? 'visible' : ''}`}>
                     <h1>{t('section4.titulo')}</h1>

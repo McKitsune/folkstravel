@@ -120,7 +120,7 @@
 /* Estilos del menú desplegable */
 .language-dropdown {
     position: absolute;
-    top: 70px;
+    top: 45px;
     /* Ajustar la distancia del botón */
     right: 39px;
     background: rgba(51, 51, 51, 0.309);
