@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run optimize-media && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "optimize-media": "node scripts/optimize-media.js"
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
@@ -31,6 +32,7 @@
     "react-player": "^2.16.0",
     "react-router-dom": "^7.6.0",
     "react-tsparticles": "^2.11.1",
+    "sharp": "^0.34.1",
     "swiper": "^11.2.6",
     "tsparticles": "^2.11.1"
   },

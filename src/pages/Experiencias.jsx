@@ -37,7 +37,7 @@ export default function Experiencias() {
 
                 <div className="experiencias-grid">
                     {experiences.map(({ key, slug, icon }) => {
-                        const bgUrl = `/assets/backgrounds/${slug.toLowerCase().replace('xp', '')}.jpg`;
+                        const bgUrl = `/assets/backgrounds/${slug.toLowerCase().replace('xp', '')}.webp`;
 
                         return (
                             <Link

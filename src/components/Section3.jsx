@@ -9,19 +9,19 @@ function Section3() {
     const regiones = [
         { 
             id: 'risaralda', 
-            src: './assets/images/risaralda.png', 
+            src: './assets/images/risaralda.webp', 
             nombre: 'Risaralda', 
             descripcion: t('risaralda.descripcion')  // Traducción de la descripción para Risaralda
         },
         { 
             id: 'caldas', 
-            src: './assets/images/caldas.png', 
+            src: './assets/images/caldas.webp', 
             nombre: 'Caldas', 
             descripcion: t('caldas.descripcion')  // Traducción de la descripción para Caldas
         },
         { 
             id: 'quindio', 
-            src: './assets/images/quindio.png', 
+            src: './assets/images/quindio.webp', 
             nombre: 'Quindío', 
             descripcion: t('quindio.descripcion')  // Traducción de la descripción para Quindío
         }

@@ -1,5 +1,5 @@
 import '../styles/Contacto.css';
-import contactoImg from '/assets/images/contacto.jpeg';
+import contactoImg from '/assets/images/contacto.webp';
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next'; // Importa useTranslation
 

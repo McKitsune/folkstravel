@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   base: '/',
   plugins: [react()],
-  assetsInclude: ['**/*.webp', '**/*.jpg', '**/*.jpeg', '**/*.png', '**/*.svg', '**/*.gif'],
+  assetsInclude: ['**/*.webp', '**/*.webp', '**/*.webp', '**/*.webp', '**/*.svg', '**/*.gif'],
   build: {
     chunkSizeWarningLimit: 1000,  // Aumentar el límite de chunk (por defecto es 500 KB)
     rollupOptions: {

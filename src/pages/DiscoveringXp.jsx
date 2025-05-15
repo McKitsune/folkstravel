@@ -5,7 +5,7 @@ import { setupScrollAnimations } from "../utils/scrollAnimations.js";
 import "../styles/customfp.css";
 import { useNavigate } from "react-router-dom";
 import "../styles/discoveringXp.css";
-import fondoImage from "/assets/backgrounds/discovering/fondo.png";
+import fondoImage from "/assets/backgrounds/discovering/fondo.webp";
 
 const discoveringexperiences = [
     {
@@ -13,7 +13,7 @@ const discoveringexperiences = [
         titulo: "Descubriendo Experiencias",
         descripcion:
             "Identidad y Cultura en el Paisaje Cultural Cafetero. Los colonizadores de Antioquia, Tolima, Cauca y Cundiboyacense formaron una población amable, solidaria y dedicada a su tierra. La transmisión generacional de saberes y tradiciones ha tejido la identidad campesina. Explorar esta región es sumergirse en prácticas artesanales, tradiciones culinarias y relatos únicos que enriquecen la experiencia del visitante.",
-        imagen: "/assets/backgrounds/discovering/discovering.jpeg",
+        imagen: "/assets/backgrounds/discovering/discovering.webp",
         fondo: "#0b0b0b85",
     },
     {
@@ -22,10 +22,10 @@ const discoveringexperiences = [
         descripcion:
             "Tejiendo Historias: Cacao, Cultura y Cestería en El Diamante y Filandia. En la finca El Diamante (Quimbaya), los nietos del dueño nos guían entre cultivos de cacao, café y plátano, enseñándonos a elaborar chocolate y compartiendo un almuerzo en una fonda caminera. Por la tarde, en Filandia, exploramos su arquitectura antioqueña y visitamos a un artesano local, donde aprenderemos sobre la cestería y tejeremos nuestro propio recuerdo.",
         imagenes: [
-            "/assets/backgrounds/discovering/cesteria/cesteria1.png",
-            "/assets/backgrounds/discovering/cesteria/cesteria2.png",
-            "/assets/backgrounds/discovering/cesteria/cesteria3.png",
-            "/assets/backgrounds/discovering/cesteria/cesteria4.png",
+            "/assets/backgrounds/discovering/cesteria/cesteria1.webp",
+            "/assets/backgrounds/discovering/cesteria/cesteria2.webp",
+            "/assets/backgrounds/discovering/cesteria/cesteria3.webp",
+            "/assets/backgrounds/discovering/cesteria/cesteria4.webp",
         ],
         fondo: "#0b0b0b85",
     },
@@ -35,10 +35,10 @@ const discoveringexperiences = [
         descripcion:
             "Paisaje, Cultura y Café de Alta Gama. A bordo de jeeps Willys, exploramos los municipios cordilleranos de Córdoba, Pijao (ciudad slow) y Buenavista, disfrutando de vistas panorámicas. Finalizamos en la terraza San Alberto con un recorrido de dos horas y media por la ruta del café, desde la semilla hasta la taza, culminando con una degustación semiprofesional del café más premiado de Colombia.",
         imagenes: [
-            "/assets/backgrounds/discovering/puebliando/puebliando_1.png",
-            "/assets/backgrounds/discovering/puebliando/puebliando_2.png",
-            "/assets/backgrounds/discovering/puebliando/puebliando_3.png",
-            "/assets/backgrounds/discovering/puebliando/puebliando.png",
+            "/assets/backgrounds/discovering/puebliando/puebliando_1.webp",
+            "/assets/backgrounds/discovering/puebliando/puebliando_2.webp",
+            "/assets/backgrounds/discovering/puebliando/puebliando_3.webp",
+            "/assets/backgrounds/discovering/puebliando/puebliando.webp",
         ],
         fondo: "#0b0b0b85",
     },
@@ -48,10 +48,10 @@ const discoveringexperiences = [
         descripcion:
             "Explora un destino no turístico en una caminata de 3 a 5 horas por el bosque subandino hacia dos majestuosas cascadas. Guiado por un experto, descubrirás la interpretación ambiental del entorno y las tradiciones locales. Una experiencia auténtica donde naturaleza e historias se entrelazan paso a paso.",
         imagenes: [
-            "/assets/backgrounds/discovering/alcala/alcala.png",
-            "/assets/backgrounds/discovering/alcala/alcala_1.png",
-            "/assets/backgrounds/discovering/alcala/alcala_2.png",
-            "/assets/backgrounds/discovering/alcala/alcala_3.png",
+            "/assets/backgrounds/discovering/alcala/alcala.webp",
+            "/assets/backgrounds/discovering/alcala/alcala_1.webp",
+            "/assets/backgrounds/discovering/alcala/alcala_2.webp",
+            "/assets/backgrounds/discovering/alcala/alcala_3.webp",
         ],
         fondo: "#0b0b0b85",
     },
@@ -61,10 +61,10 @@ const discoveringexperiences = [
         descripcion:
             "En una caminata de tres horas por el bosque subandino, descubrimos dos cascadas ocultas, acompañados por un guía que interpreta el entorno y las tradiciones locales. Luego, visitamos una finca cafetera privada para conocer durante dos horas el proceso completo del café colombiano, desde la semilla hasta la taza. Una combinación inolvidable de naturaleza y cultura.",
         imagenes: [
-            "/assets/backgrounds/discovering/alcala/alcala5.png",
-            "/assets/backgrounds/discovering/alcala/alcala6.png",
-            "/assets/backgrounds/discovering/alcala/alcala7.png",
-            "/assets/backgrounds/discovering/alcala/alcala8.png",
+            "/assets/backgrounds/discovering/alcala/alcala5.webp",
+            "/assets/backgrounds/discovering/alcala/alcala6.webp",
+            "/assets/backgrounds/discovering/alcala/alcala7.webp",
+            "/assets/backgrounds/discovering/alcala/alcala8.webp",
         ],
         fondo: "#0b0b0b85",
     },
@@ -74,10 +74,10 @@ const discoveringexperiences = [
         descripcion:
             "Explora un destino no turístico con una caminata de tres horas hacia dos cascadas en el bosque subandino, guiado por expertos locales que revelan tradiciones y secretos del entorno. Luego, vive siete vuelos de canopy durante una hora de emociones y vistas panorámicas, conectándote con la naturaleza desde tierra y aire en una experiencia única.",
         imagenes: [
-            "/assets/backgrounds/discovering/canopy/canopy1.png",
-            "/assets/backgrounds/discovering/canopy/canopy2.png",
-            "/assets/backgrounds/discovering/canopy/canopy3.png",
-            "/assets/backgrounds/discovering/canopy/canopy4.png",
+            "/assets/backgrounds/discovering/canopy/canopy1.webp",
+            "/assets/backgrounds/discovering/canopy/canopy2.webp",
+            "/assets/backgrounds/discovering/canopy/canopy3.webp",
+            "/assets/backgrounds/discovering/canopy/canopy4.webp",
         ],
         fondo: "#0b0b0b85",
     },
@@ -87,10 +87,10 @@ const discoveringexperiences = [
         descripcion:
             "Recorre un río de nivel intermedio bajo, ideal para familias o amigos sin experiencia previa. Remarás entre suaves rápidos rodeado de vegetación exuberante, guiado por expertos que garantizan seguridad y diversión. Una experiencia llena de risas, trabajo en equipo y conexión con la naturaleza en el corazón del Quindío.",
         imagenes: [
-            "/assets/backgrounds/discovering/rafting/rafting1.png",
-            "/assets/backgrounds/discovering/rafting/rafting2.png",
-            "/assets/backgrounds/discovering/rafting/rafting3.png",
-            "/assets/backgrounds/discovering/rafting/rafting4.png",
+            "/assets/backgrounds/discovering/rafting/rafting1.webp",
+            "/assets/backgrounds/discovering/rafting/rafting2.webp",
+            "/assets/backgrounds/discovering/rafting/rafting3.webp",
+            "/assets/backgrounds/discovering/rafting/rafting4.webp",
         ],
         fondo: "#0b0b0b85",
     },
@@ -100,10 +100,10 @@ const discoveringexperiences = [
         descripcion:
             "Explora el bosque subandino hacia dos majestuosas cascadas con un guía experto que revela secretos del entorno y tradiciones locales. Luego, en la Finca El Diamante (Quimbaya), recorre la plantación de cacao junto a los nietos del propietario, aprendiendo sobre procesos del chocolate y prácticas sostenibles que incluyen café y plátano. Culmina con un almuerzo casero en una posada tradicional.",
         imagenes: [
-            "/assets/backgrounds/discovering/chontaduro/chantaduro1.png",
-            "/assets/backgrounds/discovering/chontaduro/chantaduro2.png",
-            "/assets/backgrounds/discovering/chontaduro/chantaduro3.png",
-            "/assets/backgrounds/discovering/chontaduro/chantaduro4.png",
+            "/assets/backgrounds/discovering/chontaduro/chantaduro1.webp",
+            "/assets/backgrounds/discovering/chontaduro/chantaduro2.webp",
+            "/assets/backgrounds/discovering/chontaduro/chantaduro3.webp",
+            "/assets/backgrounds/discovering/chontaduro/chantaduro4.webp",
         ],
         fondo: "#0b0b0b85",
     },

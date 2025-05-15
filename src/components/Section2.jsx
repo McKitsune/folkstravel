@@ -10,10 +10,10 @@ function Section2() {
     console.log(mensaje);  // Verifica si la traducción se está aplicando correctamente
 
     const imagenes = [
-        'barranquero.jpeg', 'biking.jpeg', 'nevado.jpeg', 'biking2.jpeg', 'cabalgata.jpeg', 'cabalgata2.webp',
-        'cacao.webp', 'cafe.jpeg', 'cafe2.webp', 'cesteria.jpeg', 'cocora.jpeg',
-        'cocora2.jpeg', 'colibri.webp', 'filandia.jpeg', 'globo.webp', 'globo2.jpeg',
-        'mono.jpeg', 'Salento.jpeg', 'salento2.webp', 'termales.jpeg'
+        'barranquero.webp', 'biking.webp', 'nevado.webp', 'biking2.webp', 'cabalgata.webp', 'cabalgata2.webp',
+        'cacao.webp', 'cafe.webp', 'cafe2.webp', 'cesteria.webp', 'cocora.webp',
+        'cocora2.webp', 'colibri.webp', 'filandia.webp', 'globo.webp', 'globo2.webp',
+        'mono.webp', 'Salento.webp', 'salento2.webp', 'termales.webp'
     ];
 
     const sectionRef = useRef(null);
