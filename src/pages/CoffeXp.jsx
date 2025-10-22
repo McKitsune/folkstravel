@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useTranslation } from 'react-i18next'; // Importar useTranslation
+import { useTranslation } from 'react-i18next';
 import { initCustomFP } from "../utils/customfp.js";
 import { setupScrollAnimations } from "../utils/scrollAnimations.js";
 import "../styles/customfp.css";
