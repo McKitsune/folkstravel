@@ -3,7 +3,7 @@ import nodemailer from 'nodemailer';
 import cors from 'cors';
 import dotenv from 'dotenv';
 
-dotenv.config(); // Cargar variables de entorno
+dotenv.config();
 
 const app = express();
 
