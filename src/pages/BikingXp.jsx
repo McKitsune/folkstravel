@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useTranslation } from 'react-i18next';  // Importar useTranslation
+import { useTranslation } from 'react-i18next'; 
 import { initCustomFP } from "../utils/customfp.js";
 import { setupScrollAnimations } from "../utils/scrollAnimations.js";
 import "../styles/customfp.css";
@@ -10,7 +10,7 @@ import fondoImage from '/assets/backgrounds/biking/fondo.webp';
 // Lista de experiencias de ciclismo
 const bikingexperiences = [
     {
-        key: 'toursEnBicicleta', // Usamos una clave única para la traducción
+        key: 'toursEnBicicleta',
         titulo: "TOURS EN BICICLETA",
         descripcion:
             "Ciclismo en la Región Cafetera: Naturaleza, Cultura y Aventura sobre Ruedas Desde recorridos entre cultivos de café hasta travesías andinas de alta montaña, nuestras rutas en bicicleta ofrecen paisajes impresionantes, contacto con comunidades locales y gastronomía típica. Con opciones que se ajustan a todos los niveles, garantizamos una experiencia memorable en la majestuosidad natural y cultural de la región cafetera.",
@@ -18,7 +18,7 @@ const bikingexperiences = [
         fondo: "#0b0b0b85",
     },
     {
-        key: 'rutaDelCacique', // Usamos una clave única para la traducción
+        key: 'rutaDelCacique',
         titulo: "LA RUTA DEL CACIQUE",
         descripcion:
             "Quindío – Biking the Andes: Ciclismo Escénico por la Cordillera Central Recorre 24 km desde Calarcá por rutas terciarias con vistas al paisaje cafetero. Guiado por expertos, este itinerario intermedio combina belleza natural, interacción local y desafío físico. Elige entre bicicleta todoterreno de 9 cambios o eléctrica de 5 cambios para una experiencia personalizada sobre dos ruedas.",
@@ -31,7 +31,7 @@ const bikingexperiences = [
         fondo: "#0b0b0b85",
     },
     {
-        key: 'rutaDelCaciqueFincaElParaiso', // Usamos una clave única para la traducción
+        key: 'rutaDelCaciqueFincaElParaiso', 
         titulo: "RUTA DEL CACIQUE & FINCA EL PARAÍSO",
         descripcion:
             "Ciclismo y Café: Ruta Patrimonial desde Calarcá hasta Finca El Paraíso Recorre 24 km en bicicleta por la cordillera central desde Calarcá, atravesando paisajes declarados Patrimonio Mundial por la UNESCO. La ruta culmina en una finca familiar, donde se disfruta un almuerzo típico y se vive el proceso completo del café: cultivo, cosecha, tostado y preparación. Una experiencia que une ciclismo, tradición cafetera y cultura regional.",
@@ -46,7 +46,7 @@ const bikingexperiences = [
 ];
 
 const BikingXp = () => {
-    const { t } = useTranslation(); // Usar el hook para traducción
+    const { t } = useTranslation(); 
     const navigate = useNavigate();
 
     useEffect(() => {
@@ -75,8 +75,8 @@ const BikingXp = () => {
                     <section key={i} className="fp-section section" style={{ backgroundColor: exp.fondo }}>
                         <div className="biking-xp-section-content">
                             <div className="biking-xp-section-text">
-                                <h1>{t(`bikingExperiences.${exp.key}.titulo`)}</h1> {/* Traducción del título */}
-                                <p>{t(`bikingExperiences.${exp.key}.descripcion`)}</p> {/* Traducción de descripción */}
+                                <h1>{t(`bikingExperiences.${exp.key}.titulo`)}</h1> 
+                                <p>{t(`bikingExperiences.${exp.key}.descripcion`)}</p> 
                                 {i !== 0 && (
                                     <button onClick={() => navigate("/contacto")}>{t('bikingContact.cotizar')}</button>
                                 )}
