@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useTranslation } from 'react-i18next';  // Importar useTranslation
+import { useTranslation } from 'react-i18next'; 
 import { initCustomFP } from "../utils/customfp.js";
 import { setupScrollAnimations } from "../utils/scrollAnimations.js";
 import "../styles/customfp.css";
@@ -98,7 +98,7 @@ const adventuresexperiences = [
     },
 ];
 const AdventuresXp = () => {
-    const { t } = useTranslation(); // Usar el hook de i18next para traducción
+    const { t } = useTranslation(); 
     const navigate = useNavigate();
 
     useEffect(() => {
@@ -127,8 +127,8 @@ const AdventuresXp = () => {
                     <section key={i} className="fp-section section" style={{ backgroundColor: exp.fondo }}>
                         <div className="adventures-xp-section-content">
                             <div className="adventures-xp-section-text">
-                                <h1>{t(`adventures.${exp.key}.titulo`)}</h1> {/* Traducción del título */}
-                                <p>{t(`adventures.${exp.key}.descripcion`)}</p> {/* Traducción de descripción */}
+                                <h1>{t(`adventures.${exp.key}.titulo`)}</h1> 
+                                <p>{t(`adventures.${exp.key}.descripcion`)}</p> 
                                 {i !== 0 && (
                                     <button onClick={() => navigate("/contacto")}>{t('adventuresContact.cotizar')}</button>
                                 )}
