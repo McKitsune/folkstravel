@@ -17,6 +17,11 @@ app.use(cors({
 
 app.use(express.json());
 
+// Ruta básica para ver si el backend está vivo (necesaria para Render)
+app.get('/', (req, res) => {
+    res.send('Servidor backend funcionando correctamente 🚀');
+});
+
 // Configurar Nodemailer con variables de entorno
 const transporter = nodemailer.createTransport({
     host: process.env.EMAIL_HOST,
@@ -51,8 +56,11 @@ app.post('/api/enviarCorreo', (req, res) => {
     });
 });
 
-// Puerto desde el .env o por defecto 5000
+// Puerto desde Render o por defecto
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-    console.log(`Servidor corriendo en http://localhost:${PORT}`);
+
+console.log('PORT desde Render:', process.env.PORT);
+
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Servidor corriendo en http://0.0.0.0:${PORT}`);
 });
